@@ -1,0 +1,2224 @@
+[
+  {
+    "query_id": "q01",
+    "split": "dev",
+    "question": "Thời gian đào tạo tiêu chuẩn cho chương trình cử nhân và kỹ sư là bao nhiêu năm?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "thời gian đào tạo tiêu chuẩn chương trình cử nhân kỹ sư",
+        "filter": null,
+        "results": [
+          {
+            "id": "handbook-sv-2025_p10_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 10 / 35\nCHƯƠNG I: QUY CHẾ ĐÀO TẠO ĐIỀU KIỆN TỐT NGHIỆP VÀ XẾP HẠNG BẰNG\nĐiều 12. Điều kiện công nhận tốt nghiệp\nSinh viên được xét và công nhận tốt nghiệp khi thỏa mãn đầy đủ các điều kiện sau đây:\n1. Tích lũy đủ số tín chỉ và học phần quy định trong chương trình đào tạo của ngành tương ứng (tối thiểu 125\ntín chỉ cho cử nhân và 155 tín chỉ cho kỹ sư);\n2. Điểm trung bình chung tích lũy (CPA) toàn khóa học đạt từ 2.00 trở lên theo thang điểm 4;\n3. Hoàn thành đầy đủ chứng chỉ Giáo dục Quốc phòng An ninh và Giáo dục Thể chất;\n4. Đạt chuẩn đầu ra về Ngoại ngữ (TOEIC 450 / IELTS 4.5) và Chuẩn kỹ năng Công nghệ thông tin theo quy\nđịnh tại Điều 3;\n5. Không trong thời gian bị truy cứu trách nhiệm hình sự hoặc đang bị kỷ luật ở mức đình chỉ học tập;\n6.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 10,
+            "metadata": {
+              "char_length": 780,
+              "section": "quy_che_dao_tao",
+              "character_count": 1457,
+              "chunk_id": "handbook-sv-2025_p10_para_00",
+              "document_type": "handbook",
+              "strategy": "B_or_C",
+              "page_id": "page_10",
+              "chunk_index": 0,
+              "chunk_type": "by_paragraph",
+              "year": 2025,
+              "language": "vi",
+              "source": "data\\handbook_sv_2025.pdf",
+              "page": 10,
+              "chapter": "Chương I: Quy chế đào tạo theo hệ thống tín chỉ",
+              "document_id": "handbook-sv-2025"
+            },
+            "score": 0.5908,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p29_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 29 / 35\nCHƯƠNG IV: NCKH SINH VIÊN TIẾN ĐỘ VÀ KIỂM TRA ĐỊNH KỲ\nĐiều 48. Thời gian thực hiện và kiểm tra tiến độ đề tài\n1. Thời gian thực hiện một đề tài NCKH sinh viên tối đa là 08 tháng kể từ ngày có quyết định phê duyệt danh\nmục và ký kết hợp đồng nghiên cứu (thường từ tháng 11 năm trước đến tháng 6 năm sau). 2. Trường hợp bất khả kháng, Chủ nhiệm đề tài phải làm đơn xin gia hạn có xác nhận của Giảng viên hướng\ndẫn gửi Phòng Quản lý Khoa học trước thời điểm hết hạn hợp đồng tối thiểu 20 ngày làm việc. Thời gian gia\nhạn tối đa không quá 02 tháng và chỉ được gia hạn duy nhất 01 lần. 3. Báo cáo kiểm tra tiến độ giữa kỳ được tổ chức vào tháng 3 hàng năm.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 29,
+            "metadata": {
+              "year": 2025,
+              "chunk_id": "handbook-sv-2025_p29_para_00",
+              "page": 29,
+              "page_id": "page_29",
+              "chapter": "Chương IV: Nghiên cứu khoa học và đổi mới sáng tạo sinh viên",
+              "section": "nghien_cuu_khoa_hoc",
+              "char_length": 687,
+              "chunk_type": "by_paragraph",
+              "document_type": "handbook",
+              "chunk_index": 0,
+              "character_count": 847,
+              "strategy": "B_or_C",
+              "document_id": "handbook-sv-2025",
+              "source": "data\\handbook_sv_2025.pdf",
+              "language": "vi"
+            },
+            "score": 0.5578,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p20_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 20 / 35\nCHƯƠNG III: CÔNG TÁC SINH VIÊN QUY TRÌNH CHẤM RÈN LUYỆN\nĐiều 32. Quy trình và thời hạn đánh giá điểm rèn luyện\n1. Quy trình đánh giá gồm 3 cấp: Sinh viên tự chấm điểm trên hệ thống trực tuyến > Tập thể lớp sinh hoạt và\nbình xét dưới sự chủ trì của Ban cán sự lớp > Hội đồng đánh giá rèn luyện cấp Khoa thẩm định và Hiệu\ntrưởng ra quyết định công nhận.\n2. Thời hạn hoàn thành đánh giá rèn luyện: Sinh viên phải hoàn tất tự đánh giá trong vòng 10 ngày kể từ khi\nkết thúc học kỳ. Ban cán sự lớp tổ chức họp xét và gửi biên bản lên Khoa trong vòng 7 ngày tiếp theo.\n3. Sinh viên không tham gia tự đánh giá điểm rèn luyện đúng thời hạn quy định sẽ bị xếp loại Rèn luyện Kém\n(dưới 35 điểm) trong học kỳ đó và không được quyền khiếu nại.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 20,
+            "metadata": {
+              "source": "data\\handbook_sv_2025.pdf",
+              "language": "vi",
+              "chunk_id": "handbook-sv-2025_p20_para_00",
+              "document_id": "handbook-sv-2025",
+              "page": 20,
+              "strategy": "B_or_C",
+              "char_length": 766,
+              "chapter": "Chương III: Công tác sinh viên, học bổng và chế độ chính sách",
+              "character_count": 766,
+              "chunk_type": "by_paragraph",
+              "year": 2025,
+              "chunk_index": 0,
+              "section": "cong_tac_sinh_vien",
+              "page_id": "page_20",
+              "document_type": "handbook"
+            },
+            "score": 0.5496,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[handbook-sv-2025_p29_para_00 | data/handbook_sv_2025.pdf | page 29]\nSỔ TAY SINH VIÊN 2025 TRANG 29 / 35\nCHƯƠNG IV: NCKH SINH VIÊN TIẾN ĐỘ VÀ KIỂM TRA ĐỊNH KỲ\nĐiều 48. Thời gian thực hiện và kiểm tra tiến độ đề tài\n1. Thời gian thực hiện một đề tài NCKH sinh viên tối đa là 08 tháng kể từ ngày có quyết định phê duyệt danh\nmục và ký kết hợp đồng nghiên cứu (thường từ tháng 11 năm trước đến tháng 6 năm sau). 2. Trường hợp bất khả kháng, Chủ nhiệm đề tài phải làm đơn xin gia hạn có xác nhận của Giảng viên hướng\ndẫn gửi Phòng Quản lý Khoa học trước thời điểm hết hạn hợp đồng tối thiểu 20 ngày làm việc. Thời gian gia\nhạn tối đa không quá 02 tháng và chỉ được gia hạn duy nhất 01 lần. 3. Báo cáo kiểm tra tiến độ giữa kỳ được tổ chức vào tháng 3 hàng năm.",
+        "context_ids": [
+          "handbook-sv-2025_p29_para_00"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "thời gian đào tạo chương trình cử nhân kỹ sư",
+        "filter": null,
+        "results": [
+          {
+            "id": "handbook-sv-2025_p29_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 29 / 35\nCHƯƠNG IV: NCKH SINH VIÊN TIẾN ĐỘ VÀ KIỂM TRA ĐỊNH KỲ\nĐiều 48. Thời gian thực hiện và kiểm tra tiến độ đề tài\n1. Thời gian thực hiện một đề tài NCKH sinh viên tối đa là 08 tháng kể từ ngày có quyết định phê duyệt danh\nmục và ký kết hợp đồng nghiên cứu (thường từ tháng 11 năm trước đến tháng 6 năm sau). 2. Trường hợp bất khả kháng, Chủ nhiệm đề tài phải làm đơn xin gia hạn có xác nhận của Giảng viên hướng\ndẫn gửi Phòng Quản lý Khoa học trước thời điểm hết hạn hợp đồng tối thiểu 20 ngày làm việc. Thời gian gia\nhạn tối đa không quá 02 tháng và chỉ được gia hạn duy nhất 01 lần. 3. Báo cáo kiểm tra tiến độ giữa kỳ được tổ chức vào tháng 3 hàng năm.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 29,
+            "metadata": {
+              "language": "vi",
+              "page": 29,
+              "character_count": 847,
+              "year": 2025,
+              "chunk_id": "handbook-sv-2025_p29_para_00",
+              "chapter": "Chương IV: Nghiên cứu khoa học và đổi mới sáng tạo sinh viên",
+              "source": "data\\handbook_sv_2025.pdf",
+              "document_id": "handbook-sv-2025",
+              "strategy": "B_or_C",
+              "chunk_type": "by_paragraph",
+              "page_id": "page_29",
+              "section": "nghien_cuu_khoa_hoc",
+              "chunk_index": 0,
+              "document_type": "handbook",
+              "char_length": 687
+            },
+            "score": 0.527,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p10_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 10 / 35\nCHƯƠNG I: QUY CHẾ ĐÀO TẠO ĐIỀU KIỆN TỐT NGHIỆP VÀ XẾP HẠNG BẰNG\nĐiều 12. Điều kiện công nhận tốt nghiệp\nSinh viên được xét và công nhận tốt nghiệp khi thỏa mãn đầy đủ các điều kiện sau đây:\n1. Tích lũy đủ số tín chỉ và học phần quy định trong chương trình đào tạo của ngành tương ứng (tối thiểu 125\ntín chỉ cho cử nhân và 155 tín chỉ cho kỹ sư);\n2. Điểm trung bình chung tích lũy (CPA) toàn khóa học đạt từ 2.00 trở lên theo thang điểm 4;\n3. Hoàn thành đầy đủ chứng chỉ Giáo dục Quốc phòng An ninh và Giáo dục Thể chất;\n4. Đạt chuẩn đầu ra về Ngoại ngữ (TOEIC 450 / IELTS 4.5) và Chuẩn kỹ năng Công nghệ thông tin theo quy\nđịnh tại Điều 3;\n5. Không trong thời gian bị truy cứu trách nhiệm hình sự hoặc đang bị kỷ luật ở mức đình chỉ học tập;\n6.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 10,
+            "metadata": {
+              "page_id": "page_10",
+              "source": "data\\handbook_sv_2025.pdf",
+              "document_type": "handbook",
+              "section": "quy_che_dao_tao",
+              "year": 2025,
+              "character_count": 1457,
+              "page": 10,
+              "chunk_id": "handbook-sv-2025_p10_para_00",
+              "chapter": "Chương I: Quy chế đào tạo theo hệ thống tín chỉ",
+              "document_id": "handbook-sv-2025",
+              "char_length": 780,
+              "chunk_index": 0,
+              "strategy": "B_or_C",
+              "chunk_type": "by_paragraph",
+              "language": "vi"
+            },
+            "score": 0.5064,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p20_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 20 / 35\nCHƯƠNG III: CÔNG TÁC SINH VIÊN QUY TRÌNH CHẤM RÈN LUYỆN\nĐiều 32. Quy trình và thời hạn đánh giá điểm rèn luyện\n1. Quy trình đánh giá gồm 3 cấp: Sinh viên tự chấm điểm trên hệ thống trực tuyến > Tập thể lớp sinh hoạt và\nbình xét dưới sự chủ trì của Ban cán sự lớp > Hội đồng đánh giá rèn luyện cấp Khoa thẩm định và Hiệu\ntrưởng ra quyết định công nhận.\n2. Thời hạn hoàn thành đánh giá rèn luyện: Sinh viên phải hoàn tất tự đánh giá trong vòng 10 ngày kể từ khi\nkết thúc học kỳ. Ban cán sự lớp tổ chức họp xét và gửi biên bản lên Khoa trong vòng 7 ngày tiếp theo.\n3. Sinh viên không tham gia tự đánh giá điểm rèn luyện đúng thời hạn quy định sẽ bị xếp loại Rèn luyện Kém\n(dưới 35 điểm) trong học kỳ đó và không được quyền khiếu nại.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 20,
+            "metadata": {
+              "document_type": "handbook",
+              "chunk_type": "by_paragraph",
+              "strategy": "B_or_C",
+              "year": 2025,
+              "document_id": "handbook-sv-2025",
+              "source": "data\\handbook_sv_2025.pdf",
+              "chapter": "Chương III: Công tác sinh viên, học bổng và chế độ chính sách",
+              "page": 20,
+              "character_count": 766,
+              "page_id": "page_20",
+              "language": "vi",
+              "chunk_index": 0,
+              "section": "cong_tac_sinh_vien",
+              "char_length": 766,
+              "chunk_id": "handbook-sv-2025_p20_para_00"
+            },
+            "score": 0.4993,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[handbook-sv-2025_p29_para_00 | data/handbook_sv_2025.pdf | page 29]\nSỔ TAY SINH VIÊN 2025 TRANG 29 / 35\nCHƯƠNG IV: NCKH SINH VIÊN TIẾN ĐỘ VÀ KIỂM TRA ĐỊNH KỲ\nĐiều 48. Thời gian thực hiện và kiểm tra tiến độ đề tài\n1. Thời gian thực hiện một đề tài NCKH sinh viên tối đa là 08 tháng kể từ ngày có quyết định phê duyệt danh\nmục và ký kết hợp đồng nghiên cứu (thường từ tháng 11 năm trước đến tháng 6 năm sau). 2. Trường hợp bất khả kháng, Chủ nhiệm đề tài phải làm đơn xin gia hạn có xác nhận của Giảng viên hướng\ndẫn gửi Phòng Quản lý Khoa học trước thời điểm hết hạn hợp đồng tối thiểu 20 ngày làm việc. Thời gian gia\nhạn tối đa không quá 02 tháng và chỉ được gia hạn duy nhất 01 lần. 3. Báo cáo kiểm tra tiến độ giữa kỳ được tổ chức vào tháng 3 hàng năm.",
+        "context_ids": [
+          "handbook-sv-2025_p29_para_00"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "thời gian đào tạo chương trình cử nhân kỹ sư tiêu chuẩn",
+        "filter": null,
+        "results": [
+          {
+            "id": "handbook-sv-2025_p29_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 29 / 35\nCHƯƠNG IV: NCKH SINH VIÊN TIẾN ĐỘ VÀ KIỂM TRA ĐỊNH KỲ\nĐiều 48. Thời gian thực hiện và kiểm tra tiến độ đề tài\n1. Thời gian thực hiện một đề tài NCKH sinh viên tối đa là 08 tháng kể từ ngày có quyết định phê duyệt danh\nmục và ký kết hợp đồng nghiên cứu (thường từ tháng 11 năm trước đến tháng 6 năm sau). 2. Trường hợp bất khả kháng, Chủ nhiệm đề tài phải làm đơn xin gia hạn có xác nhận của Giảng viên hướng\ndẫn gửi Phòng Quản lý Khoa học trước thời điểm hết hạn hợp đồng tối thiểu 20 ngày làm việc. Thời gian gia\nhạn tối đa không quá 02 tháng và chỉ được gia hạn duy nhất 01 lần. 3. Báo cáo kiểm tra tiến độ giữa kỳ được tổ chức vào tháng 3 hàng năm.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 29,
+            "metadata": {
+              "chunk_type": "by_paragraph",
+              "char_length": 687,
+              "page_id": "page_29",
+              "strategy": "B_or_C",
+              "character_count": 847,
+              "source": "data\\handbook_sv_2025.pdf",
+              "chunk_index": 0,
+              "document_id": "handbook-sv-2025",
+              "chunk_id": "handbook-sv-2025_p29_para_00",
+              "language": "vi",
+              "document_type": "handbook",
+              "page": 29,
+              "chapter": "Chương IV: Nghiên cứu khoa học và đổi mới sáng tạo sinh viên",
+              "section": "nghien_cuu_khoa_hoc",
+              "year": 2025
+            },
+            "score": 0.5616,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p10_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 10 / 35\nCHƯƠNG I: QUY CHẾ ĐÀO TẠO ĐIỀU KIỆN TỐT NGHIỆP VÀ XẾP HẠNG BẰNG\nĐiều 12. Điều kiện công nhận tốt nghiệp\nSinh viên được xét và công nhận tốt nghiệp khi thỏa mãn đầy đủ các điều kiện sau đây:\n1. Tích lũy đủ số tín chỉ và học phần quy định trong chương trình đào tạo của ngành tương ứng (tối thiểu 125\ntín chỉ cho cử nhân và 155 tín chỉ cho kỹ sư);\n2. Điểm trung bình chung tích lũy (CPA) toàn khóa học đạt từ 2.00 trở lên theo thang điểm 4;\n3. Hoàn thành đầy đủ chứng chỉ Giáo dục Quốc phòng An ninh và Giáo dục Thể chất;\n4. Đạt chuẩn đầu ra về Ngoại ngữ (TOEIC 450 / IELTS 4.5) và Chuẩn kỹ năng Công nghệ thông tin theo quy\nđịnh tại Điều 3;\n5. Không trong thời gian bị truy cứu trách nhiệm hình sự hoặc đang bị kỷ luật ở mức đình chỉ học tập;\n6.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 10,
+            "metadata": {
+              "chunk_index": 0,
+              "language": "vi",
+              "page": 10,
+              "character_count": 1457,
+              "source": "data\\handbook_sv_2025.pdf",
+              "section": "quy_che_dao_tao",
+              "year": 2025,
+              "char_length": 780,
+              "document_type": "handbook",
+              "document_id": "handbook-sv-2025",
+              "chunk_type": "by_paragraph",
+              "chapter": "Chương I: Quy chế đào tạo theo hệ thống tín chỉ",
+              "strategy": "B_or_C",
+              "page_id": "page_10",
+              "chunk_id": "handbook-sv-2025_p10_para_00"
+            },
+            "score": 0.556,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p20_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 20 / 35\nCHƯƠNG III: CÔNG TÁC SINH VIÊN QUY TRÌNH CHẤM RÈN LUYỆN\nĐiều 32. Quy trình và thời hạn đánh giá điểm rèn luyện\n1. Quy trình đánh giá gồm 3 cấp: Sinh viên tự chấm điểm trên hệ thống trực tuyến > Tập thể lớp sinh hoạt và\nbình xét dưới sự chủ trì của Ban cán sự lớp > Hội đồng đánh giá rèn luyện cấp Khoa thẩm định và Hiệu\ntrưởng ra quyết định công nhận.\n2. Thời hạn hoàn thành đánh giá rèn luyện: Sinh viên phải hoàn tất tự đánh giá trong vòng 10 ngày kể từ khi\nkết thúc học kỳ. Ban cán sự lớp tổ chức họp xét và gửi biên bản lên Khoa trong vòng 7 ngày tiếp theo.\n3. Sinh viên không tham gia tự đánh giá điểm rèn luyện đúng thời hạn quy định sẽ bị xếp loại Rèn luyện Kém\n(dưới 35 điểm) trong học kỳ đó và không được quyền khiếu nại.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 20,
+            "metadata": {
+              "source": "data\\handbook_sv_2025.pdf",
+              "chunk_index": 0,
+              "section": "cong_tac_sinh_vien",
+              "document_type": "handbook",
+              "document_id": "handbook-sv-2025",
+              "strategy": "B_or_C",
+              "chunk_type": "by_paragraph",
+              "char_length": 766,
+              "page": 20,
+              "language": "vi",
+              "page_id": "page_20",
+              "year": 2025,
+              "chapter": "Chương III: Công tác sinh viên, học bổng và chế độ chính sách",
+              "chunk_id": "handbook-sv-2025_p20_para_00",
+              "character_count": 766
+            },
+            "score": 0.5448,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[handbook-sv-2025_p29_para_00 | data/handbook_sv_2025.pdf | page 29]\nSỔ TAY SINH VIÊN 2025 TRANG 29 / 35\nCHƯƠNG IV: NCKH SINH VIÊN TIẾN ĐỘ VÀ KIỂM TRA ĐỊNH KỲ\nĐiều 48. Thời gian thực hiện và kiểm tra tiến độ đề tài\n1. Thời gian thực hiện một đề tài NCKH sinh viên tối đa là 08 tháng kể từ ngày có quyết định phê duyệt danh\nmục và ký kết hợp đồng nghiên cứu (thường từ tháng 11 năm trước đến tháng 6 năm sau). 2. Trường hợp bất khả kháng, Chủ nhiệm đề tài phải làm đơn xin gia hạn có xác nhận của Giảng viên hướng\ndẫn gửi Phòng Quản lý Khoa học trước thời điểm hết hạn hợp đồng tối thiểu 20 ngày làm việc. Thời gian gia\nhạn tối đa không quá 02 tháng và chỉ được gia hạn duy nhất 01 lần. 3. Báo cáo kiểm tra tiến độ giữa kỳ được tổ chức vào tháng 3 hàng năm.",
+        "context_ids": [
+          "handbook-sv-2025_p29_para_00"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "thời gian đào tạo chương trình cử nhân kỹ sư tiêu chuẩn",
+        "filter": null,
+        "results": [
+          {
+            "id": "handbook-sv-2025_p29_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 29 / 35\nCHƯƠNG IV: NCKH SINH VIÊN TIẾN ĐỘ VÀ KIỂM TRA ĐỊNH KỲ\nĐiều 48. Thời gian thực hiện và kiểm tra tiến độ đề tài\n1. Thời gian thực hiện một đề tài NCKH sinh viên tối đa là 08 tháng kể từ ngày có quyết định phê duyệt danh\nmục và ký kết hợp đồng nghiên cứu (thường từ tháng 11 năm trước đến tháng 6 năm sau). 2. Trường hợp bất khả kháng, Chủ nhiệm đề tài phải làm đơn xin gia hạn có xác nhận của Giảng viên hướng\ndẫn gửi Phòng Quản lý Khoa học trước thời điểm hết hạn hợp đồng tối thiểu 20 ngày làm việc. Thời gian gia\nhạn tối đa không quá 02 tháng và chỉ được gia hạn duy nhất 01 lần. 3. Báo cáo kiểm tra tiến độ giữa kỳ được tổ chức vào tháng 3 hàng năm.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 29,
+            "metadata": {
+              "document_id": "handbook-sv-2025",
+              "document_type": "handbook",
+              "year": 2025,
+              "source": "data\\handbook_sv_2025.pdf",
+              "char_length": 687,
+              "strategy": "B_or_C",
+              "chunk_type": "by_paragraph",
+              "language": "vi",
+              "section": "nghien_cuu_khoa_hoc",
+              "chunk_id": "handbook-sv-2025_p29_para_00",
+              "chunk_index": 0,
+              "page_id": "page_29",
+              "character_count": 847,
+              "page": 29,
+              "chapter": "Chương IV: Nghiên cứu khoa học và đổi mới sáng tạo sinh viên"
+            },
+            "score": 0.5616,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p10_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 10 / 35\nCHƯƠNG I: QUY CHẾ ĐÀO TẠO ĐIỀU KIỆN TỐT NGHIỆP VÀ XẾP HẠNG BẰNG\nĐiều 12. Điều kiện công nhận tốt nghiệp\nSinh viên được xét và công nhận tốt nghiệp khi thỏa mãn đầy đủ các điều kiện sau đây:\n1. Tích lũy đủ số tín chỉ và học phần quy định trong chương trình đào tạo của ngành tương ứng (tối thiểu 125\ntín chỉ cho cử nhân và 155 tín chỉ cho kỹ sư);\n2. Điểm trung bình chung tích lũy (CPA) toàn khóa học đạt từ 2.00 trở lên theo thang điểm 4;\n3. Hoàn thành đầy đủ chứng chỉ Giáo dục Quốc phòng An ninh và Giáo dục Thể chất;\n4. Đạt chuẩn đầu ra về Ngoại ngữ (TOEIC 450 / IELTS 4.5) và Chuẩn kỹ năng Công nghệ thông tin theo quy\nđịnh tại Điều 3;\n5. Không trong thời gian bị truy cứu trách nhiệm hình sự hoặc đang bị kỷ luật ở mức đình chỉ học tập;\n6.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 10,
+            "metadata": {
+              "document_id": "handbook-sv-2025",
+              "chunk_id": "handbook-sv-2025_p10_para_00",
+              "strategy": "B_or_C",
+              "language": "vi",
+              "chunk_type": "by_paragraph",
+              "character_count": 1457,
+              "page_id": "page_10",
+              "chapter": "Chương I: Quy chế đào tạo theo hệ thống tín chỉ",
+              "char_length": 780,
+              "source": "data\\handbook_sv_2025.pdf",
+              "year": 2025,
+              "chunk_index": 0,
+              "section": "quy_che_dao_tao",
+              "page": 10,
+              "document_type": "handbook"
+            },
+            "score": 0.556,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p20_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 20 / 35\nCHƯƠNG III: CÔNG TÁC SINH VIÊN QUY TRÌNH CHẤM RÈN LUYỆN\nĐiều 32. Quy trình và thời hạn đánh giá điểm rèn luyện\n1. Quy trình đánh giá gồm 3 cấp: Sinh viên tự chấm điểm trên hệ thống trực tuyến > Tập thể lớp sinh hoạt và\nbình xét dưới sự chủ trì của Ban cán sự lớp > Hội đồng đánh giá rèn luyện cấp Khoa thẩm định và Hiệu\ntrưởng ra quyết định công nhận.\n2. Thời hạn hoàn thành đánh giá rèn luyện: Sinh viên phải hoàn tất tự đánh giá trong vòng 10 ngày kể từ khi\nkết thúc học kỳ. Ban cán sự lớp tổ chức họp xét và gửi biên bản lên Khoa trong vòng 7 ngày tiếp theo.\n3. Sinh viên không tham gia tự đánh giá điểm rèn luyện đúng thời hạn quy định sẽ bị xếp loại Rèn luyện Kém\n(dưới 35 điểm) trong học kỳ đó và không được quyền khiếu nại.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 20,
+            "metadata": {
+              "character_count": 766,
+              "char_length": 766,
+              "strategy": "B_or_C",
+              "document_id": "handbook-sv-2025",
+              "chunk_id": "handbook-sv-2025_p20_para_00",
+              "chunk_index": 0,
+              "page": 20,
+              "chunk_type": "by_paragraph",
+              "language": "vi",
+              "source": "data\\handbook_sv_2025.pdf",
+              "document_type": "handbook",
+              "section": "cong_tac_sinh_vien",
+              "page_id": "page_20",
+              "year": 2025,
+              "chapter": "Chương III: Công tác sinh viên, học bổng và chế độ chính sách"
+            },
+            "score": 0.5448,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[handbook-sv-2025_p29_para_00 | data/handbook_sv_2025.pdf | page 29]\nSỔ TAY SINH VIÊN 2025 TRANG 29 / 35\nCHƯƠNG IV: NCKH SINH VIÊN TIẾN ĐỘ VÀ KIỂM TRA ĐỊNH KỲ\nĐiều 48. Thời gian thực hiện và kiểm tra tiến độ đề tài\n1. Thời gian thực hiện một đề tài NCKH sinh viên tối đa là 08 tháng kể từ ngày có quyết định phê duyệt danh\nmục và ký kết hợp đồng nghiên cứu (thường từ tháng 11 năm trước đến tháng 6 năm sau). 2. Trường hợp bất khả kháng, Chủ nhiệm đề tài phải làm đơn xin gia hạn có xác nhận của Giảng viên hướng\ndẫn gửi Phòng Quản lý Khoa học trước thời điểm hết hạn hợp đồng tối thiểu 20 ngày làm việc. Thời gian gia\nhạn tối đa không quá 02 tháng và chỉ được gia hạn duy nhất 01 lần. 3. Báo cáo kiểm tra tiến độ giữa kỳ được tổ chức vào tháng 3 hàng năm.",
+        "context_ids": [
+          "handbook-sv-2025_p29_para_00"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_seconds": 6.55
+  },
+  {
+    "query_id": "q02",
+    "split": "dev",
+    "question": "Chuẩn đầu ra ngoại ngữ tiếng Anh đối với sinh viên không chuyên ngữ yêu cầu mức chứng chỉ quốc tế nào?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "chuẩn đầu ra ngoại ngữ tiếng Anh sinh viên không chuyên ngữ chứng chỉ quốc tế",
+        "filter": null,
+        "results": [
+          {
+            "id": "handbook-sv-2025_p04_para_01",
+            "text": "Chuẩn đầu ra tin học: Sinh viên phải đạt chuẩn kỹ năng sử dụng công nghệ thông tin nâng cao theo Thông\ntư 03/2014/TTBTTTT hoặc đạt các chứng chỉ quốc tế MOS (tối thiểu 3 kỹ năng Word, Excel, PowerPoint với\nđiểm số từ 700/1000 mỗi kỹ năng) trước thời điểm xét tốt nghiệp. Điều 4. Học phần tiên quyết và học phần học trước\n1. Học phần tiên quyết: Học phần B là học phần tiên quyết của học phần A khi điều kiện bắt buộc là sinh viên\nphải tích lũy học phần B (đạt điểm từ D trở lên, tương đương 1.0 hệ 4) mới được phép đăng ký học phần A. 2. Học phần học trước: Học phần B là học phần học trước của học phần A khi sinh viên bắt buộc đã tham dự\nhọc phần B nhưng chưa bắt buộc phải có điểm đạt, chỉ cần có điểm đánh giá quá trình và thi kết thúc môn\nkhông bị điểm F (0 điểm).",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 4,
+            "metadata": {
+              "strategy": "B_or_C",
+              "chunk_index": 1,
+              "year": 2025,
+              "chunk_id": "handbook-sv-2025_p04_para_01",
+              "page_id": "page_04",
+              "chapter": "Chương I: Quy chế đào tạo theo hệ thống tín chỉ",
+              "page": 4,
+              "source": "data\\handbook_sv_2025.pdf",
+              "document_type": "handbook",
+              "section": "quy_che_dao_tao",
+              "document_id": "handbook-sv-2025",
+              "chunk_type": "by_paragraph",
+              "char_length": 769,
+              "character_count": 1433,
+              "language": "vi"
+            },
+            "score": 0.4265,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p21_para_01",
+            "text": "Điều kiện cần: Trong học kỳ xét học bổng, sinh viên phải đăng ký học tối thiểu 15 tín chỉ, không có môn học\nnào bị điểm F và không bị kỷ luật từ mức khiển trách trở lên.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 21,
+            "metadata": {
+              "char_length": 169,
+              "chunk_type": "by_paragraph",
+              "chapter": "Chương III: Công tác sinh viên, học bổng và chế độ chính sách",
+              "source": "data\\handbook_sv_2025.pdf",
+              "language": "vi",
+              "page_id": "page_21",
+              "document_type": "handbook",
+              "page": 21,
+              "year": 2025,
+              "character_count": 952,
+              "strategy": "B_or_C",
+              "document_id": "handbook-sv-2025",
+              "section": "cong_tac_sinh_vien",
+              "chunk_id": "handbook-sv-2025_p21_para_01",
+              "chunk_index": 1
+            },
+            "score": 0.3837,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p18_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 18 / 35\nCHƯƠNG II: QUY CHẾ KHẢO THÍ BẢO LƯU VÀ CÔNG NHẬN ĐIỂM HỌC PHẦN\nĐiều 25. Công nhận tương đương và chuyển đổi điểm học phần\n1. Sinh viên chuyển trường, chuyển ngành hoặc học cùng lúc hai chương trình (song bằng) được xem xét công\nnhận miễn học và chuyển đổi kết quả các học phần đã tích lũy nếu có nội dung tương đương từ 80% trở lên và\nsố tín chỉ tương đương hoặc lớn hơn học phần quy định. 2. Các chứng chỉ nghề nghiệp quốc tế (AWS Certified Cloud Practitioner, Cisco CCNA, CompTIA Security+)\nđược xem xét miễn học và quy đổi tương đương điểm A (4.0) cho các học phần thực hành mạng và điện toán\nđám mây tương ứng theo danh mục do Hội đồng Khoa học phê duyệt hàng năm. 3.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 18,
+            "metadata": {
+              "document_type": "handbook",
+              "year": 2025,
+              "char_length": 707,
+              "section": "khao_thi_hoc_vu",
+              "document_id": "handbook-sv-2025",
+              "page": 18,
+              "source": "data\\handbook_sv_2025.pdf",
+              "language": "vi",
+              "chapter": "Chương II: Quy chế khảo thí và đánh giá học phần",
+              "character_count": 870,
+              "chunk_id": "handbook-sv-2025_p18_para_00",
+              "chunk_type": "by_paragraph",
+              "strategy": "B_or_C",
+              "page_id": "page_18",
+              "chunk_index": 0
+            },
+            "score": 0.35,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[handbook-sv-2025_p21_para_01 | data/handbook_sv_2025.pdf | page 21]\nĐiều kiện cần: Trong học kỳ xét học bổng, sinh viên phải đăng ký học tối thiểu 15 tín chỉ, không có môn học\nnào bị điểm F và không bị kỷ luật từ mức khiển trách trở lên.",
+        "context_ids": [
+          "handbook-sv-2025_p21_para_01"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_seconds": 2.48
+  },
+  {
+    "query_id": "q03",
+    "split": "dev",
+    "question": "Sinh viên có thể rút bớt môn học sau tuần thứ 2 đến trước tuần thứ 6 với điều kiện học phí và kết quả học tập thế nào?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "rút bớt môn học học phí kết quả học tập tuần thứ 2 đến tuần thứ 6",
+        "filter": null,
+        "results": [
+          {
+            "id": "handbook-sv-2025_p22_para_01",
+            "text": "Đối tượng được giảm 50% học phí: Sinh viên là con cán bộ, công chức, viên chức mà cha hoặc mẹ bị tai\nnạn lao động hoặc mắc bệnh nghề nghiệp được hưởng trợ cấp thường xuyên. 4. Thời hạn nộp hồ sơ xin miễn giảm học phí: Sinh viên nộp 01 bộ hồ sơ hợp lệ về Phòng Công tác Sinh viên\ntrong vòng 30 ngày kể từ ngày bắt đầu học kỳ chính.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 22,
+            "metadata": {
+              "chapter": "Chương III: Công tác sinh viên, học bổng và chế độ chính sách",
+              "strategy": "B_or_C",
+              "chunk_type": "by_paragraph",
+              "chunk_id": "handbook-sv-2025_p22_para_01",
+              "character_count": 1074,
+              "section": "cong_tac_sinh_vien",
+              "chunk_index": 1,
+              "year": 2025,
+              "document_type": "handbook",
+              "page_id": "page_22",
+              "page": 22,
+              "source": "data\\handbook_sv_2025.pdf",
+              "document_id": "handbook-sv-2025",
+              "language": "vi",
+              "char_length": 330
+            },
+            "score": 0.6652,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p09_para_01",
+            "text": "Thời gian tạm dừng học tập vì nhu cầu cá nhân không quá 2 học kỳ chính cho mỗi lần xin phép và tổng cộng\nkhông quá 4 học kỳ chính trong toàn bộ khóa học. Hết thời hạn tạm dừng, sinh viên phải nộp đơn xin trở lại học\ntập trước ngày bắt đầu học kỳ mới ít nhất 15 ngày làm việc.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 9,
+            "metadata": {
+              "year": 2025,
+              "document_id": "handbook-sv-2025",
+              "chunk_type": "by_paragraph",
+              "source": "data\\handbook_sv_2025.pdf",
+              "char_length": 275,
+              "chapter": "Chương I: Quy chế đào tạo theo hệ thống tín chỉ",
+              "document_type": "handbook",
+              "page": 9,
+              "chunk_index": 1,
+              "language": "vi",
+              "chunk_id": "handbook-sv-2025_p09_para_01",
+              "page_id": "page_09",
+              "strategy": "B_or_C",
+              "section": "quy_che_dao_tao",
+              "character_count": 1060
+            },
+            "score": 0.6175,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p03_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 3 / 35\nCHƯƠNG I: QUY CHẾ ĐÀO TẠO TỔ CHỨC ĐÀO TẠO VÀ KHUNG THỜI GIAN\nĐiều 1. Khung thời gian và kế hoạch năm học\n1. Năm học tại Nhà trường được tổ chức theo hệ thống tín chỉ, bao gồm hai học kỳ chính (Học kỳ 1 và Học kỳ\n2) với độ dài tối thiểu 15 tuần học chính thức và 3 tuần thi cho mỗi học kỳ. Học kỳ phụ (Học kỳ hè) có độ dài từ\n5 đến 7 tuần, được tổ chức để sinh viên học lại, học cải thiện hoặc học vượt theo nguyện vọng. 2. Thời gian đào tạo tiêu chuẩn cho chương trình cử nhân là 4 năm (8 học kỳ chính), chương trình kỹ sư là 4.5\nnăm (9 học kỳ chính). Thời gian tối đa được phép hoàn thành chương trình không vượt quá 2 lần thời gian thiết\nkế tiêu chuẩn (tối đa 8 năm đối với cử nhân và 9 năm đối với kỹ sư, bao gồm cả thời gian tạm dừng học tập có\nphép). 3.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 3,
+            "metadata": {
+              "year": 2025,
+              "section": "quy_che_dao_tao",
+              "page_id": "page_03",
+              "source": "data\\handbook_sv_2025.pdf",
+              "character_count": 1414,
+              "chunk_index": 0,
+              "document_type": "handbook",
+              "chunk_id": "handbook-sv-2025_p03_para_00",
+              "page": 3,
+              "chapter": "Chương I: Quy chế đào tạo theo hệ thống tín chỉ",
+              "document_id": "handbook-sv-2025",
+              "chunk_type": "by_paragraph",
+              "char_length": 793,
+              "language": "vi",
+              "strategy": "B_or_C"
+            },
+            "score": 0.6159,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[handbook-sv-2025_p22_para_01 | data/handbook_sv_2025.pdf | page 22]\nĐối tượng được giảm 50% học phí: Sinh viên là con cán bộ, công chức, viên chức mà cha hoặc mẹ bị tai\nnạn lao động hoặc mắc bệnh nghề nghiệp được hưởng trợ cấp thường xuyên. 4. Thời hạn nộp hồ sơ xin miễn giảm học phí: Sinh viên nộp 01 bộ hồ sơ hợp lệ về Phòng Công tác Sinh viên\ntrong vòng 30 ngày kể từ ngày bắt đầu học kỳ chính.\n\n[handbook-sv-2025_p09_para_01 | data/handbook_sv_2025.pdf | page 9]\nThời gian tạm dừng học tập vì nhu cầu cá nhân không quá 2 học kỳ chính cho mỗi lần xin phép và tổng cộng\nkhông quá 4 học kỳ chính trong toàn bộ khóa học. Hết thời hạn tạm dừng, sinh viên phải nộp đơn xin trở lại học\ntập trước ngày bắt đầu học kỳ mới ít nhất 15 ngày làm việc.",
+        "context_ids": [
+          "handbook-sv-2025_p22_para_01",
+          "handbook-sv-2025_p09_para_01"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_seconds": 2.05
+  },
+  {
+    "query_id": "q04",
+    "split": "dev",
+    "question": "Trong quy chế đào tạo, sinh viên đạt điểm học phần từ 8.0 đến 8.4 được quy đổi sang loại điểm chữ và thang điểm 4 là bao nhiêu?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "điểm học phần từ 8.0 đến 8.4 quy đổi sang loại điểm chữ và thang điểm 4",
+        "filter": {
+          "section": "quy_che_dao_tao"
+        },
+        "results": [
+          {
+            "id": "handbook-sv-2025_p06_para_01",
+            "text": "Loại D+ (Trung bình yếu): Từ 5.0 đến 5.4 điểm, tương đương 1.5 điểm hệ 4. Loại D (Yếu Đạt yêu cầu): Từ 4.0 đến 4.9 điểm, tương đương 1.0 điểm hệ 4. Loại F (Kém Không đạt): Dưới 4.0 điểm, tương đương 0.0 điểm hệ 4. 3. Các học phần đạt điểm D trở lên được tính là tích lũy tín chỉ. Học phần bị điểm F bắt buộc phải đăng ký học\nlại hoặc học học phần thay thế nếu là học phần tự chọn.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 6,
+            "metadata": {
+              "source": "data\\handbook_sv_2025.pdf",
+              "document_id": "handbook-sv-2025",
+              "chapter": "Chương I: Quy chế đào tạo theo hệ thống tín chỉ",
+              "document_type": "handbook",
+              "page_id": "page_06",
+              "chunk_index": 1,
+              "page": 6,
+              "char_length": 380,
+              "section": "quy_che_dao_tao",
+              "language": "vi",
+              "strategy": "B_or_C",
+              "year": 2025,
+              "character_count": 1169,
+              "chunk_type": "by_paragraph",
+              "chunk_id": "handbook-sv-2025_p06_para_01"
+            },
+            "score": 0.773,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p06_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 6 / 35\nCHƯƠNG I: QUY CHẾ ĐÀO TẠO THANG ĐIỂM VÀ ĐÁNH GIÁ KẾT QUẢ\nĐiều 7. Thang điểm đánh giá học phần\n1. Điểm đánh giá bộ phận và điểm thi kết thúc học phần được chấm theo thang điểm 10 (từ 0 đến 10), làm tròn\nđến một chữ số thập phân. Điểm học phần là tổng của tất cả các điểm thành phần nhân với trọng số tương\nứng. 2. Điểm học phần sau đó được quy đổi sang thang điểm chữ và thang điểm 4 theo bảng quy chuẩn sau:\nLoại A (Giỏi Xuất sắc): Từ 8.5 đến 10.0 điểm, tương đương 4.0 điểm hệ 4. Loại B+ (Khá giỏi): Từ 8.0 đến 8.4 điểm, tương đương 3.5 điểm hệ 4. Loại B (Khá): Từ 7.0 đến 7.9 điểm, tương đương 3.0 điểm hệ 4. Loại C+ (Trung bình khá): Từ 6.5 đến 6.9 điểm, tương đương 2.5 điểm hệ 4. Loại C (Trung bình): Từ 5.5 đến 6.4 điểm, tương đương 2.0 điểm hệ 4.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 6,
+            "metadata": {
+              "document_type": "handbook",
+              "language": "vi",
+              "chunk_type": "by_paragraph",
+              "chunk_index": 0,
+              "section": "quy_che_dao_tao",
+              "chapter": "Chương I: Quy chế đào tạo theo hệ thống tín chỉ",
+              "page": 6,
+              "document_id": "handbook-sv-2025",
+              "page_id": "page_06",
+              "char_length": 788,
+              "strategy": "B_or_C",
+              "year": 2025,
+              "source": "data\\handbook_sv_2025.pdf",
+              "chunk_id": "handbook-sv-2025_p06_para_00",
+              "character_count": 1169
+            },
+            "score": 0.7679,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p05_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 5 / 35\nCHƯƠNG I: QUY CHẾ ĐÀO TẠO ĐĂNG KÝ HỌC PHẦN VÀ RÚT BỚT MÔN HỌC\nĐiều 5. Quy trình và hạn mức đăng ký học phần mỗi học kỳ\n1. Đầu mỗi học kỳ chính, sinh viên xếp loại học lực bình thường phải đăng ký khối lượng học tập tối thiểu là 14\ntín chỉ và tối đa không quá 24 tín chỉ. Đối với sinh viên đang trong diện cảnh báo học vụ mức 1 hoặc mức 2, số\ntín chỉ đăng ký tối thiểu là 10 tín chỉ và tối đa không quá 14 tín chỉ nhằm đảm bảo chất lượng cải thiện học tập. 2. Trong học kỳ hè, sinh viên được phép đăng ký tự nguyện tối đa không quá 8 tín chỉ. Nhà trường không quy\nđịnh mức tối thiểu cho học kỳ hè. 3.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 5,
+            "metadata": {
+              "language": "vi",
+              "chapter": "Chương I: Quy chế đào tạo theo hệ thống tín chỉ",
+              "document_id": "handbook-sv-2025",
+              "section": "quy_che_dao_tao",
+              "page_id": "page_05",
+              "year": 2025,
+              "strategy": "B_or_C",
+              "chunk_id": "handbook-sv-2025_p05_para_00",
+              "document_type": "handbook",
+              "char_length": 634,
+              "page": 5,
+              "chunk_type": "by_paragraph",
+              "chunk_index": 0,
+              "source": "data\\handbook_sv_2025.pdf",
+              "character_count": 1491
+            },
+            "score": 0.62,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[handbook-sv-2025_p06_para_01 | data/handbook_sv_2025.pdf | page 6]\nLoại D+ (Trung bình yếu): Từ 5.0 đến 5.4 điểm, tương đương 1.5 điểm hệ 4. Loại D (Yếu Đạt yêu cầu): Từ 4.0 đến 4.9 điểm, tương đương 1.0 điểm hệ 4. Loại F (Kém Không đạt): Dưới 4.0 điểm, tương đương 0.0 điểm hệ 4. 3. Các học phần đạt điểm D trở lên được tính là tích lũy tín chỉ. Học phần bị điểm F bắt buộc phải đăng ký học\nlại hoặc học học phần thay thế nếu là học phần tự chọn.",
+        "context_ids": [
+          "handbook-sv-2025_p06_para_01"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "điểm học phần từ 8.0 đến 8.4 quy đổi sang loại điểm chữ thang điểm 4",
+        "filter": {
+          "section": "quy_che_dao_tao"
+        },
+        "results": [
+          {
+            "id": "handbook-sv-2025_p06_para_01",
+            "text": "Loại D+ (Trung bình yếu): Từ 5.0 đến 5.4 điểm, tương đương 1.5 điểm hệ 4. Loại D (Yếu Đạt yêu cầu): Từ 4.0 đến 4.9 điểm, tương đương 1.0 điểm hệ 4. Loại F (Kém Không đạt): Dưới 4.0 điểm, tương đương 0.0 điểm hệ 4. 3. Các học phần đạt điểm D trở lên được tính là tích lũy tín chỉ. Học phần bị điểm F bắt buộc phải đăng ký học\nlại hoặc học học phần thay thế nếu là học phần tự chọn.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 6,
+            "metadata": {
+              "chunk_id": "handbook-sv-2025_p06_para_01",
+              "strategy": "B_or_C",
+              "chapter": "Chương I: Quy chế đào tạo theo hệ thống tín chỉ",
+              "language": "vi",
+              "section": "quy_che_dao_tao",
+              "document_id": "handbook-sv-2025",
+              "document_type": "handbook",
+              "page": 6,
+              "chunk_type": "by_paragraph",
+              "year": 2025,
+              "char_length": 380,
+              "character_count": 1169,
+              "source": "data\\handbook_sv_2025.pdf",
+              "page_id": "page_06",
+              "chunk_index": 1
+            },
+            "score": 0.794,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p06_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 6 / 35\nCHƯƠNG I: QUY CHẾ ĐÀO TẠO THANG ĐIỂM VÀ ĐÁNH GIÁ KẾT QUẢ\nĐiều 7. Thang điểm đánh giá học phần\n1. Điểm đánh giá bộ phận và điểm thi kết thúc học phần được chấm theo thang điểm 10 (từ 0 đến 10), làm tròn\nđến một chữ số thập phân. Điểm học phần là tổng của tất cả các điểm thành phần nhân với trọng số tương\nứng. 2. Điểm học phần sau đó được quy đổi sang thang điểm chữ và thang điểm 4 theo bảng quy chuẩn sau:\nLoại A (Giỏi Xuất sắc): Từ 8.5 đến 10.0 điểm, tương đương 4.0 điểm hệ 4. Loại B+ (Khá giỏi): Từ 8.0 đến 8.4 điểm, tương đương 3.5 điểm hệ 4. Loại B (Khá): Từ 7.0 đến 7.9 điểm, tương đương 3.0 điểm hệ 4. Loại C+ (Trung bình khá): Từ 6.5 đến 6.9 điểm, tương đương 2.5 điểm hệ 4. Loại C (Trung bình): Từ 5.5 đến 6.4 điểm, tương đương 2.0 điểm hệ 4.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 6,
+            "metadata": {
+              "language": "vi",
+              "section": "quy_che_dao_tao",
+              "page": 6,
+              "chunk_index": 0,
+              "chapter": "Chương I: Quy chế đào tạo theo hệ thống tín chỉ",
+              "document_id": "handbook-sv-2025",
+              "strategy": "B_or_C",
+              "document_type": "handbook",
+              "source": "data\\handbook_sv_2025.pdf",
+              "year": 2025,
+              "chunk_type": "by_paragraph",
+              "page_id": "page_06",
+              "char_length": 788,
+              "character_count": 1169,
+              "chunk_id": "handbook-sv-2025_p06_para_00"
+            },
+            "score": 0.7533,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p05_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 5 / 35\nCHƯƠNG I: QUY CHẾ ĐÀO TẠO ĐĂNG KÝ HỌC PHẦN VÀ RÚT BỚT MÔN HỌC\nĐiều 5. Quy trình và hạn mức đăng ký học phần mỗi học kỳ\n1. Đầu mỗi học kỳ chính, sinh viên xếp loại học lực bình thường phải đăng ký khối lượng học tập tối thiểu là 14\ntín chỉ và tối đa không quá 24 tín chỉ. Đối với sinh viên đang trong diện cảnh báo học vụ mức 1 hoặc mức 2, số\ntín chỉ đăng ký tối thiểu là 10 tín chỉ và tối đa không quá 14 tín chỉ nhằm đảm bảo chất lượng cải thiện học tập. 2. Trong học kỳ hè, sinh viên được phép đăng ký tự nguyện tối đa không quá 8 tín chỉ. Nhà trường không quy\nđịnh mức tối thiểu cho học kỳ hè. 3.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 5,
+            "metadata": {
+              "year": 2025,
+              "chunk_id": "handbook-sv-2025_p05_para_00",
+              "char_length": 634,
+              "document_id": "handbook-sv-2025",
+              "language": "vi",
+              "document_type": "handbook",
+              "chunk_index": 0,
+              "chunk_type": "by_paragraph",
+              "character_count": 1491,
+              "section": "quy_che_dao_tao",
+              "page_id": "page_05",
+              "strategy": "B_or_C",
+              "chapter": "Chương I: Quy chế đào tạo theo hệ thống tín chỉ",
+              "source": "data\\handbook_sv_2025.pdf",
+              "page": 5
+            },
+            "score": 0.591,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[handbook-sv-2025_p06_para_01 | data/handbook_sv_2025.pdf | page 6]\nLoại D+ (Trung bình yếu): Từ 5.0 đến 5.4 điểm, tương đương 1.5 điểm hệ 4. Loại D (Yếu Đạt yêu cầu): Từ 4.0 đến 4.9 điểm, tương đương 1.0 điểm hệ 4. Loại F (Kém Không đạt): Dưới 4.0 điểm, tương đương 0.0 điểm hệ 4. 3. Các học phần đạt điểm D trở lên được tính là tích lũy tín chỉ. Học phần bị điểm F bắt buộc phải đăng ký học\nlại hoặc học học phần thay thế nếu là học phần tự chọn.",
+        "context_ids": [
+          "handbook-sv-2025_p06_para_01"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_seconds": 3.46
+  },
+  {
+    "query_id": "q05",
+    "split": "dev",
+    "question": "Mức học phí sinh viên phải đóng khi đăng ký học lại hoặc cải thiện điểm được quy định ra sao?",
+    "status": "answered",
+    "answer": "Mức học phí sinh viên phải đóng khi đăng ký học lại hoặc cải thiện điểm được tính bằng 120% định mức học phí tín chỉ hiện hành của năm học tổ chức lớp học lại [handbook-sv-2025_p07_para_01].",
+    "citations": [
+      "handbook-sv-2025_p07_para_01"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "học phí sinh viên học lại cải thiện điểm",
+        "filter": null,
+        "results": [
+          {
+            "id": "handbook-sv-2025_p07_para_01",
+            "text": "Học phí học lại và học cải thiện được tính bằng 120% định mức học phí tín chỉ hiện hành của năm học tổ\nchức lớp học lại.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 7,
+            "metadata": {
+              "chunk_id": "handbook-sv-2025_p07_para_01",
+              "document_type": "handbook",
+              "section": "quy_che_dao_tao",
+              "source": "data\\handbook_sv_2025.pdf",
+              "language": "vi",
+              "char_length": 120,
+              "page_id": "page_07",
+              "chunk_index": 1,
+              "page": 7,
+              "chapter": "Chương I: Quy chế đào tạo theo hệ thống tín chỉ",
+              "year": 2025,
+              "document_id": "handbook-sv-2025",
+              "character_count": 881,
+              "chunk_type": "by_paragraph",
+              "strategy": "B_or_C"
+            },
+            "score": 0.7077,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p21_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 21 / 35\nCHƯƠNG III: CÔNG TÁC SINH VIÊN HỌC BỔNG KHUYẾN KHÍCH HỌC TẬP\nĐiều 33. Tiêu chuẩn xét cấp học bổng khuyến khích học tập\n1. Học bổng khuyến khích học tập được xét cấp theo từng học kỳ chính cho sinh viên đạt đồng thời kết quả học\ntập và kết quả rèn luyện từ loại Khá trở lên, trong chỉ tiêu quỹ học bổng của từng ngành đào tạo. 2. Các mức học bổng khuyến khích học tập:\nMức Xuất sắc: Điểm GPA từ 3.60 trở lên và Điểm rèn luyện từ 90 điểm trở lên; giá trị học bổng bằng 120%\nmức học phí của học kỳ;\nMức Giỏi: Điểm GPA từ 3.20 đến 3.59 và Điểm rèn luyện từ 80 điểm trở lên; giá trị học bổng bằng 100%\nmức học phí của học kỳ;\nMức Khá: Điểm GPA từ 2.80 đến 3.19 và Điểm rèn luyện từ 70 điểm trở lên; giá trị học bổng bằng 80% mức\nhọc phí của học kỳ. 3.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 21,
+            "metadata": {
+              "language": "vi",
+              "strategy": "B_or_C",
+              "chapter": "Chương III: Công tác sinh viên, học bổng và chế độ chính sách",
+              "page_id": "page_21",
+              "section": "cong_tac_sinh_vien",
+              "document_type": "handbook",
+              "source": "data\\handbook_sv_2025.pdf",
+              "chunk_id": "handbook-sv-2025_p21_para_00",
+              "char_length": 782,
+              "chunk_type": "by_paragraph",
+              "year": 2025,
+              "page": 21,
+              "character_count": 952,
+              "chunk_index": 0,
+              "document_id": "handbook-sv-2025"
+            },
+            "score": 0.5928,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p18_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 18 / 35\nCHƯƠNG II: QUY CHẾ KHẢO THÍ BẢO LƯU VÀ CÔNG NHẬN ĐIỂM HỌC PHẦN\nĐiều 25. Công nhận tương đương và chuyển đổi điểm học phần\n1. Sinh viên chuyển trường, chuyển ngành hoặc học cùng lúc hai chương trình (song bằng) được xem xét công\nnhận miễn học và chuyển đổi kết quả các học phần đã tích lũy nếu có nội dung tương đương từ 80% trở lên và\nsố tín chỉ tương đương hoặc lớn hơn học phần quy định. 2. Các chứng chỉ nghề nghiệp quốc tế (AWS Certified Cloud Practitioner, Cisco CCNA, CompTIA Security+)\nđược xem xét miễn học và quy đổi tương đương điểm A (4.0) cho các học phần thực hành mạng và điện toán\nđám mây tương ứng theo danh mục do Hội đồng Khoa học phê duyệt hàng năm. 3.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 18,
+            "metadata": {
+              "document_type": "handbook",
+              "chunk_type": "by_paragraph",
+              "year": 2025,
+              "strategy": "B_or_C",
+              "chunk_id": "handbook-sv-2025_p18_para_00",
+              "section": "khao_thi_hoc_vu",
+              "character_count": 870,
+              "page_id": "page_18",
+              "chapter": "Chương II: Quy chế khảo thí và đánh giá học phần",
+              "language": "vi",
+              "page": 18,
+              "source": "data\\handbook_sv_2025.pdf",
+              "document_id": "handbook-sv-2025",
+              "char_length": 707,
+              "chunk_index": 0
+            },
+            "score": 0.584,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[handbook-sv-2025_p07_para_01 | data/handbook_sv_2025.pdf | page 7]\nHọc phí học lại và học cải thiện được tính bằng 120% định mức học phí tín chỉ hiện hành của năm học tổ\nchức lớp học lại.",
+        "context_ids": [
+          "handbook-sv-2025_p07_para_01"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_seconds": 2.64
+  },
+  {
+    "query_id": "q06",
+    "split": "dev",
+    "question": "Sinh viên bị buộc thôi học khi rơi vào các tình huống học vụ nào?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "buộc thôi học tình huống học vụ sinh viên",
+        "filter": null,
+        "results": [
+          {
+            "id": "handbook-sv-2025_p34_para_01",
+            "text": "Xử lý vi phạm đạo đức học thuật: Sinh viên có hành vi ngụy tạo số liệu nghiên cứu, mua bán đề tài hoặc sao\nchép ý tưởng luận văn của người khác mà không trích dẫn nguồn sẽ bị đình chỉ đề tài ngay lập tức, thu hồi\ntoàn bộ kinh phí nghiên cứu, hủy kết quả học phần liên quan và chịu mức kỷ luật cảnh cáo cấp trường trở lên. Điều 56. Quyền sở hữu trí tuệ đối với sản phẩm đề tài\n1. Mọi kết quả nghiên cứu, mã nguồn phần mềm, sáng chế, giải pháp hữu ích được tạo ra từ đề tài NCKH sử\ndụng kinh phí của Nhà trường đều thuộc quyền sở hữu trí tuệ chung giữa Nhà trường và nhóm tác giả sinh\nviên. 2.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 34,
+            "metadata": {
+              "page": 34,
+              "chunk_type": "by_paragraph",
+              "char_length": 591,
+              "document_id": "handbook-sv-2025",
+              "strategy": "B_or_C",
+              "chapter": "Chương IV: Nghiên cứu khoa học và đổi mới sáng tạo sinh viên",
+              "chunk_id": "handbook-sv-2025_p34_para_01",
+              "document_type": "handbook",
+              "language": "vi",
+              "section": "nghien_cuu_khoa_hoc",
+              "source": "data\\handbook_sv_2025.pdf",
+              "chunk_index": 1,
+              "year": 2025,
+              "character_count": 1404,
+              "page_id": "page_34"
+            },
+            "score": 0.6521,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p15_para_01",
+            "text": "Buộc thôi học hoặc đình chỉ học tập 1 năm: Áp dụng đối với trường hợp nhờ người khác thi hộ hoặc thi hộ\ncho người khác.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 15,
+            "metadata": {
+              "chunk_index": 1,
+              "char_length": 119,
+              "page_id": "page_15",
+              "language": "vi",
+              "document_type": "handbook",
+              "document_id": "handbook-sv-2025",
+              "year": 2025,
+              "chunk_type": "by_paragraph",
+              "source": "data\\handbook_sv_2025.pdf",
+              "chunk_id": "handbook-sv-2025_p15_para_01",
+              "chapter": "Chương II: Quy chế khảo thí và đánh giá học phần",
+              "strategy": "B_or_C",
+              "character_count": 911,
+              "page": 15,
+              "section": "khao_thi_hoc_vu"
+            },
+            "score": 0.6389,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p12_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 12 / 35\nCHƯƠNG II: QUY CHẾ KHẢO THÍ QUY CÁCH ĐỀ THI VÀ TỔ CHỨC THI\nĐiều 19. Đề thi và hình thức thi kết thúc học phần\n1. Hình thức thi kết thúc học phần có thể là tự luận, trắc nghiệm khách quan, vấn đáp, bảo vệ tiểu luận/đồ án,\nhoặc làm bài tập lớn thực hành trên máy tính. Hình thức thi phải được quy định rõ trong đề cương chi tiết môn\nhọc và phổ biến cho sinh viên ngay tại tuần học đầu tiên. 2. Thời lượng thi tự luận tiêu chuẩn từ 60 phút đến 90 phút; thi trắc nghiệm từ 40 phút đến 60 phút. Đối với đồ\nán môn học, thời gian báo cáo và vấn đáp của mỗi sinh viên từ 15 đến 20 phút trước hội đồng chuyên môn tối\nthiểu 2 giảng viên. 3.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 12,
+            "metadata": {
+              "strategy": "B_or_C",
+              "char_length": 666,
+              "character_count": 917,
+              "chunk_index": 0,
+              "page": 12,
+              "document_id": "handbook-sv-2025",
+              "document_type": "handbook",
+              "source": "data\\handbook_sv_2025.pdf",
+              "chunk_id": "handbook-sv-2025_p12_para_00",
+              "chunk_type": "by_paragraph",
+              "language": "vi",
+              "year": 2025,
+              "section": "khao_thi_hoc_vu",
+              "page_id": "page_12",
+              "chapter": "Chương II: Quy chế khảo thí và đánh giá học phần"
+            },
+            "score": 0.6259,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[handbook-sv-2025_p34_para_01 | data/handbook_sv_2025.pdf | page 34]\nXử lý vi phạm đạo đức học thuật: Sinh viên có hành vi ngụy tạo số liệu nghiên cứu, mua bán đề tài hoặc sao\nchép ý tưởng luận văn của người khác mà không trích dẫn nguồn sẽ bị đình chỉ đề tài ngay lập tức, thu hồi\ntoàn bộ kinh phí nghiên cứu, hủy kết quả học phần liên quan và chịu mức kỷ luật cảnh cáo cấp trường trở lên. Điều 56. Quyền sở hữu trí tuệ đối với sản phẩm đề tài\n1. Mọi kết quả nghiên cứu, mã nguồn phần mềm, sáng chế, giải pháp hữu ích được tạo ra từ đề tài NCKH sử\ndụng kinh phí của Nhà trường đều thuộc quyền sở hữu trí tuệ chung giữa Nhà trường và nhóm tác giả sinh\nviên. 2.",
+        "context_ids": [
+          "handbook-sv-2025_p34_para_01"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "tình huống học vụ buộc thôi học sinh viên",
+        "filter": null,
+        "results": [
+          {
+            "id": "handbook-sv-2025_p14_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 14 / 35\nCHƯƠNG II: QUY CHẾ KHẢO THÍ HOÃN THI VÀ THI BỔ SUNG\nĐiều 21. Quy định về hoãn thi và vắng thi có lý do chính đáng\n1. Sinh viên không thể tham dự kỳ thi kết thúc học phần vì lý do bất khả kháng (ốm đau, tai nạn cấp cứu, thiên\ntai, hoặc gia đình có tang tứ thân phụ mẫu) được quyền làm đơn xin hoãn thi gửi Phòng Khảo thí trong vòng tối\nđa 03 ngày làm việc kể từ ngày diễn ra buổi thi. 2. Đơn xin hoãn thi phải kèm theo bệnh án điều trị hoặc giấy ra viện của cơ sở y tế cấp quận/huyện trở lên,\nhoặc xác nhận của chính quyền địa phương đối với trường hợp thiên tai, hỏa hoạn. 3. Sinh viên được chấp thuận hoãn thi sẽ được nhận điểm chữ I (Chưa hoàn thành) trên hệ thống.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 14,
+            "metadata": {
+              "strategy": "B_or_C",
+              "page": 14,
+              "document_id": "handbook-sv-2025",
+              "char_length": 703,
+              "language": "vi",
+              "section": "khao_thi_hoc_vu",
+              "source": "data\\handbook_sv_2025.pdf",
+              "chunk_index": 0,
+              "document_type": "handbook",
+              "chapter": "Chương II: Quy chế khảo thí và đánh giá học phần",
+              "character_count": 954,
+              "page_id": "page_14",
+              "year": 2025,
+              "chunk_type": "by_paragraph",
+              "chunk_id": "handbook-sv-2025_p14_para_00"
+            },
+            "score": 0.7049,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p34_para_01",
+            "text": "Xử lý vi phạm đạo đức học thuật: Sinh viên có hành vi ngụy tạo số liệu nghiên cứu, mua bán đề tài hoặc sao\nchép ý tưởng luận văn của người khác mà không trích dẫn nguồn sẽ bị đình chỉ đề tài ngay lập tức, thu hồi\ntoàn bộ kinh phí nghiên cứu, hủy kết quả học phần liên quan và chịu mức kỷ luật cảnh cáo cấp trường trở lên. Điều 56. Quyền sở hữu trí tuệ đối với sản phẩm đề tài\n1. Mọi kết quả nghiên cứu, mã nguồn phần mềm, sáng chế, giải pháp hữu ích được tạo ra từ đề tài NCKH sử\ndụng kinh phí của Nhà trường đều thuộc quyền sở hữu trí tuệ chung giữa Nhà trường và nhóm tác giả sinh\nviên. 2.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 34,
+            "metadata": {
+              "chunk_id": "handbook-sv-2025_p34_para_01",
+              "character_count": 1404,
+              "char_length": 591,
+              "year": 2025,
+              "language": "vi",
+              "document_id": "handbook-sv-2025",
+              "strategy": "B_or_C",
+              "chunk_type": "by_paragraph",
+              "source": "data\\handbook_sv_2025.pdf",
+              "chapter": "Chương IV: Nghiên cứu khoa học và đổi mới sáng tạo sinh viên",
+              "section": "nghien_cuu_khoa_hoc",
+              "document_type": "handbook",
+              "page_id": "page_34",
+              "chunk_index": 1,
+              "page": 34
+            },
+            "score": 0.6956,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p08_para_01",
+            "text": "Sinh viên bị nâng lên cảnh báo học vụ mức 2 nếu tiếp tục vi phạm tiêu chuẩn cảnh báo ở học kỳ chính kế\ntiếp. Điều 10. Xử lý buộc thôi học do kết quả học tập yếu kém\n1. Sinh viên bị buộc thôi học khi rơi vào một trong các trường hợp sau:\na) Đã bị cảnh báo học vụ mức 2 mà ở học kỳ chính tiếp theo vẫn không đạt tiêu chuẩn thoát cảnh báo;\nb) Vượt quá thời gian đào tạo tối đa quy định tại Điều 1 của Quy chế này;\nc) Tự ý bỏ học không đăng ký tín chỉ liên tiếp trong 2 học kỳ chính mà không có đơn xin phép tạm dừng hợp\nlệ gửi Phòng Đào tạo.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 8,
+            "metadata": {
+              "chunk_id": "handbook-sv-2025_p08_para_01",
+              "char_length": 538,
+              "section": "quy_che_dao_tao",
+              "source": "data\\handbook_sv_2025.pdf",
+              "document_id": "handbook-sv-2025",
+              "language": "vi",
+              "chunk_type": "by_paragraph",
+              "chunk_index": 1,
+              "page_id": "page_08",
+              "year": 2025,
+              "page": 8,
+              "chapter": "Chương I: Quy chế đào tạo theo hệ thống tín chỉ",
+              "character_count": 1250,
+              "document_type": "handbook",
+              "strategy": "B_or_C"
+            },
+            "score": 0.6955,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[handbook-sv-2025_p34_para_01 | data/handbook_sv_2025.pdf | page 34]\nXử lý vi phạm đạo đức học thuật: Sinh viên có hành vi ngụy tạo số liệu nghiên cứu, mua bán đề tài hoặc sao\nchép ý tưởng luận văn của người khác mà không trích dẫn nguồn sẽ bị đình chỉ đề tài ngay lập tức, thu hồi\ntoàn bộ kinh phí nghiên cứu, hủy kết quả học phần liên quan và chịu mức kỷ luật cảnh cáo cấp trường trở lên. Điều 56. Quyền sở hữu trí tuệ đối với sản phẩm đề tài\n1. Mọi kết quả nghiên cứu, mã nguồn phần mềm, sáng chế, giải pháp hữu ích được tạo ra từ đề tài NCKH sử\ndụng kinh phí của Nhà trường đều thuộc quyền sở hữu trí tuệ chung giữa Nhà trường và nhóm tác giả sinh\nviên. 2.",
+        "context_ids": [
+          "handbook-sv-2025_p34_para_01"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_seconds": 3.11
+  },
+  {
+    "query_id": "q07",
+    "split": "dev",
+    "question": "Điều kiện về tỷ lệ chuyên cần và điểm quá trình tối thiểu để sinh viên được dự thi kết thúc học phần là gì?",
+    "status": "answered",
+    "answer": "Điều kiện để sinh viên được dự thi kết thúc học phần bao gồm: tham dự tối thiểu 80% số tiết học lý thuyết và thảo luận trên lớp, hoàn thành đầy đủ 100% các bài thực hành, thí nghiệm bắt buộc của học phần, và điểm đánh giá quá trình đạt từ 4.0 điểm trở lên theo thang điểm 10 [handbook-sv-2025_p11_para_01].",
+    "citations": [
+      "handbook-sv-2025_p11_para_01"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "điều kiện tỷ lệ chuyên cần điểm quá trình dự thi kết thúc học phần",
+        "filter": null,
+        "results": [
+          {
+            "id": "handbook-sv-2025_p11_para_01",
+            "text": "Điều kiện tham dự kỳ thi kết thúc học phần\n1. Sinh viên được dự thi kết thúc học phần khi đáp ứng đủ các tiêu chuẩn:\na) Tham dự tối thiểu 80% số tiết học lý thuyết và thảo luận trên lớp;\nb) Hoàn thành đầy đủ 100% các bài thực hành, thí nghiệm bắt buộc của học phần;\nc) Điểm đánh giá quá trình đạt từ 4.0 điểm trở lên theo thang điểm 10. 2. Sinh viên nghỉ học quá 20% tổng số tiết học không có lý do chính đáng sẽ nhận điểm 0 chuyên cần, bị cấm\nthi kết thúc học phần và phải nhận điểm F cho học phần đó.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 11,
+            "metadata": {
+              "document_type": "handbook",
+              "char_length": 502,
+              "chapter": "Chương II: Quy chế khảo thí và đánh giá học phần",
+              "language": "vi",
+              "chunk_index": 1,
+              "source": "data\\handbook_sv_2025.pdf",
+              "section": "khao_thi_hoc_vu",
+              "document_id": "handbook-sv-2025",
+              "page_id": "page_11",
+              "chunk_type": "by_paragraph",
+              "page": 11,
+              "character_count": 1298,
+              "year": 2025,
+              "chunk_id": "handbook-sv-2025_p11_para_01",
+              "strategy": "B_or_C"
+            },
+            "score": 0.8016,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p11_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 11 / 35\nCHƯƠNG II: QUY CHẾ KHẢO THÍ ĐÁNH GIÁ QUÁ TRÌNH VÀ THI KẾT THÚC\nĐiều 17. Đánh giá bộ phận và trọng số điểm học phần\n1. Mỗi học phần phải có tối thiểu 2 điểm đánh giá bộ phận: Điểm quá trình (chuyên cần, bài tập, kiểm tra giữa\nkỳ, thực hành thảo luận) và Điểm thi kết thúc học phần. Tỷ trọng điểm quá trình chiếm từ 30% đến 50% tổng\nđiểm học phần; Điểm thi kết thúc học phần chiếm từ 50% đến 70% tổng điểm học phần tùy theo đề cương chi\ntiết học phần đã được Hội đồng Khoa học phê duyệt. 2. Điểm quá trình được giảng viên phụ trách công bố công khai cho sinh viên chậm nhất vào buổi học cuối\ncùng của học phần trước khi kỳ thi học kỳ diễn ra. Sinh viên có quyền thắc mắc điểm quá trình với giảng viên\ntrong vòng 3 ngày làm việc kể từ thời điểm công bố. Điều 18.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 11,
+            "metadata": {
+              "chunk_id": "handbook-sv-2025_p11_para_00",
+              "character_count": 1298,
+              "section": "khao_thi_hoc_vu",
+              "source": "data\\handbook_sv_2025.pdf",
+              "strategy": "B_or_C",
+              "page_id": "page_11",
+              "document_id": "handbook-sv-2025",
+              "year": 2025,
+              "chunk_index": 0,
+              "language": "vi",
+              "chapter": "Chương II: Quy chế khảo thí và đánh giá học phần",
+              "page": 11,
+              "chunk_type": "by_paragraph",
+              "document_type": "handbook",
+              "char_length": 795
+            },
+            "score": 0.7505,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p12_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 12 / 35\nCHƯƠNG II: QUY CHẾ KHẢO THÍ QUY CÁCH ĐỀ THI VÀ TỔ CHỨC THI\nĐiều 19. Đề thi và hình thức thi kết thúc học phần\n1. Hình thức thi kết thúc học phần có thể là tự luận, trắc nghiệm khách quan, vấn đáp, bảo vệ tiểu luận/đồ án,\nhoặc làm bài tập lớn thực hành trên máy tính. Hình thức thi phải được quy định rõ trong đề cương chi tiết môn\nhọc và phổ biến cho sinh viên ngay tại tuần học đầu tiên. 2. Thời lượng thi tự luận tiêu chuẩn từ 60 phút đến 90 phút; thi trắc nghiệm từ 40 phút đến 60 phút. Đối với đồ\nán môn học, thời gian báo cáo và vấn đáp của mỗi sinh viên từ 15 đến 20 phút trước hội đồng chuyên môn tối\nthiểu 2 giảng viên. 3.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 12,
+            "metadata": {
+              "chunk_id": "handbook-sv-2025_p12_para_00",
+              "chapter": "Chương II: Quy chế khảo thí và đánh giá học phần",
+              "year": 2025,
+              "char_length": 666,
+              "language": "vi",
+              "page_id": "page_12",
+              "section": "khao_thi_hoc_vu",
+              "source": "data\\handbook_sv_2025.pdf",
+              "character_count": 917,
+              "page": 12,
+              "document_id": "handbook-sv-2025",
+              "document_type": "handbook",
+              "chunk_index": 0,
+              "strategy": "B_or_C",
+              "chunk_type": "by_paragraph"
+            },
+            "score": 0.708,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[handbook-sv-2025_p11_para_01 | data/handbook_sv_2025.pdf | page 11]\nĐiều kiện tham dự kỳ thi kết thúc học phần\n1. Sinh viên được dự thi kết thúc học phần khi đáp ứng đủ các tiêu chuẩn:\na) Tham dự tối thiểu 80% số tiết học lý thuyết và thảo luận trên lớp;\nb) Hoàn thành đầy đủ 100% các bài thực hành, thí nghiệm bắt buộc của học phần;\nc) Điểm đánh giá quá trình đạt từ 4.0 điểm trở lên theo thang điểm 10. 2. Sinh viên nghỉ học quá 20% tổng số tiết học không có lý do chính đáng sẽ nhận điểm 0 chuyên cần, bị cấm\nthi kết thúc học phần và phải nhận điểm F cho học phần đó.",
+        "context_ids": [
+          "handbook-sv-2025_p11_para_01"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_seconds": 2.94
+  },
+  {
+    "query_id": "q08",
+    "split": "dev",
+    "question": "Theo quy chế khảo thí, sinh viên đến phòng thi muộn bao nhiêu phút sẽ không được phép tham dự thi?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "quy chế khảo thí sinh viên đến phòng thi muộn",
+        "filter": {
+          "section": "khao_thi_hoc_vu"
+        },
+        "results": [
+          {
+            "id": "handbook-sv-2025_p14_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 14 / 35\nCHƯƠNG II: QUY CHẾ KHẢO THÍ HOÃN THI VÀ THI BỔ SUNG\nĐiều 21. Quy định về hoãn thi và vắng thi có lý do chính đáng\n1. Sinh viên không thể tham dự kỳ thi kết thúc học phần vì lý do bất khả kháng (ốm đau, tai nạn cấp cứu, thiên\ntai, hoặc gia đình có tang tứ thân phụ mẫu) được quyền làm đơn xin hoãn thi gửi Phòng Khảo thí trong vòng tối\nđa 03 ngày làm việc kể từ ngày diễn ra buổi thi. 2. Đơn xin hoãn thi phải kèm theo bệnh án điều trị hoặc giấy ra viện của cơ sở y tế cấp quận/huyện trở lên,\nhoặc xác nhận của chính quyền địa phương đối với trường hợp thiên tai, hỏa hoạn. 3. Sinh viên được chấp thuận hoãn thi sẽ được nhận điểm chữ I (Chưa hoàn thành) trên hệ thống.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 14,
+            "metadata": {
+              "strategy": "B_or_C",
+              "page_id": "page_14",
+              "section": "khao_thi_hoc_vu",
+              "char_length": 703,
+              "chunk_index": 0,
+              "character_count": 954,
+              "source": "data\\handbook_sv_2025.pdf",
+              "chunk_id": "handbook-sv-2025_p14_para_00",
+              "language": "vi",
+              "chunk_type": "by_paragraph",
+              "document_id": "handbook-sv-2025",
+              "page": 14,
+              "year": 2025,
+              "chapter": "Chương II: Quy chế khảo thí và đánh giá học phần",
+              "document_type": "handbook"
+            },
+            "score": 0.7002,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p16_para_01",
+            "text": "Thời hạn công bố điểm thi: Chậm nhất sau 10 ngày làm việc kể từ ngày thi đối với hình thức thi trắc nghiệm,\nvà sau 15 ngày làm việc đối với hình thức thi tự luận, kết quả thi phải được cập nhật trên cổng thông tin sinh\nviên của Nhà trường.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 16,
+            "metadata": {
+              "document_id": "handbook-sv-2025",
+              "page_id": "page_16",
+              "strategy": "B_or_C",
+              "year": 2025,
+              "page": 16,
+              "language": "vi",
+              "chunk_type": "by_paragraph",
+              "chapter": "Chương II: Quy chế khảo thí và đánh giá học phần",
+              "chunk_id": "handbook-sv-2025_p16_para_01",
+              "char_length": 239,
+              "chunk_index": 1,
+              "source": "data\\handbook_sv_2025.pdf",
+              "character_count": 908,
+              "document_type": "handbook",
+              "section": "khao_thi_hoc_vu"
+            },
+            "score": 0.6801,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p13_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 13 / 35\nCHƯƠNG II: QUY CHẾ KHẢO THÍ QUY ĐỊNH PHÒNG THI VÀ THẺ SINH VIÊN\nĐiều 20. Trách nhiệm của thí sinh trong phòng thi\n1. Thí sinh phải có mặt tại cửa phòng thi trước giờ bắt đầu làm bài ít nhất 15 phút. Thí sinh đến muộn quá 15\nphút sau khi phát đề thi sẽ không được tham dự kỳ thi và nhận điểm 0 cho lần thi đó. 2. Khi vào phòng thi, thí sinh bắt buộc phải xuất trình Thẻ sinh viên còn hạn sử dụng hoặc Căn cước công dân\ngắn chip hợp lệ. Trường hợp bị mất thẻ sinh viên, thí sinh phải xin giấy xác nhận nhân thân có đóng dấu giáp\nlai của Phòng Công tác Sinh viên trước ngày thi. 3. Các vật dụng nghiêm cấm mang vào phòng thi bao gồm: Điện thoại di động, đồng hồ thông minh, máy ghi\nâm, thiết bị thu phát sóng truyền tin, tài liệu không được phép.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 13,
+            "metadata": {
+              "year": 2025,
+              "chunk_index": 0,
+              "page_id": "page_13",
+              "char_length": 779,
+              "source": "data\\handbook_sv_2025.pdf",
+              "document_id": "handbook-sv-2025",
+              "chunk_id": "handbook-sv-2025_p13_para_00",
+              "strategy": "B_or_C",
+              "chunk_type": "by_paragraph",
+              "character_count": 897,
+              "page": 13,
+              "chapter": "Chương II: Quy chế khảo thí và đánh giá học phần",
+              "language": "vi",
+              "section": "khao_thi_hoc_vu",
+              "document_type": "handbook"
+            },
+            "score": 0.6716,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[handbook-sv-2025_p14_para_00 | data/handbook_sv_2025.pdf | page 14]\nSỔ TAY SINH VIÊN 2025 TRANG 14 / 35\nCHƯƠNG II: QUY CHẾ KHẢO THÍ HOÃN THI VÀ THI BỔ SUNG\nĐiều 21. Quy định về hoãn thi và vắng thi có lý do chính đáng\n1. Sinh viên không thể tham dự kỳ thi kết thúc học phần vì lý do bất khả kháng (ốm đau, tai nạn cấp cứu, thiên\ntai, hoặc gia đình có tang tứ thân phụ mẫu) được quyền làm đơn xin hoãn thi gửi Phòng Khảo thí trong vòng tối\nđa 03 ngày làm việc kể từ ngày diễn ra buổi thi. 2. Đơn xin hoãn thi phải kèm theo bệnh án điều trị hoặc giấy ra viện của cơ sở y tế cấp quận/huyện trở lên,\nhoặc xác nhận của chính quyền địa phương đối với trường hợp thiên tai, hỏa hoạn. 3. Sinh viên được chấp thuận hoãn thi sẽ được nhận điểm chữ I (Chưa hoàn thành) trên hệ thống.",
+        "context_ids": [
+          "handbook-sv-2025_p14_para_00"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_seconds": 2.66
+  },
+  {
+    "query_id": "q09",
+    "split": "dev",
+    "question": "Sinh viên hoãn thi kết thúc học phần được ghi điểm gì và thời hạn chuyển đổi điểm trước khi bị tính thành điểm F là bao lâu?",
+    "status": "answered",
+    "answer": "Sinh viên hoãn thi kết thúc học phần sẽ được ghi điểm I. Thời hạn để chuyển điểm I thành điểm chính thức là trong vòng 1 năm học kể từ ngày được cấp điểm I. Nếu sinh viên không dự thi bổ sung trong thời hạn này, điểm I sẽ tự động chuyển thành điểm F (0 điểm) [handbook-sv-2025_p14_para_01].",
+    "citations": [
+      "handbook-sv-2025_p14_para_01"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "hoãn thi kết thúc học phần điểm F thời hạn chuyển đổi điểm",
+        "filter": null,
+        "results": [
+          {
+            "id": "handbook-sv-2025_p14_para_01",
+            "text": "Sinh viên\nphải dự thi bổ sung vào đợt thi của học kỳ chính gần nhất tiếp theo để chuyển điểm I thành điểm chính thức. Quá thời hạn 1 năm học kể từ ngày được cấp điểm I mà sinh viên không dự thi bổ sung, điểm I sẽ tự động\nchuyển thành điểm F (0 điểm).",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 14,
+            "metadata": {
+              "strategy": "B_or_C",
+              "character_count": 954,
+              "source": "data\\handbook_sv_2025.pdf",
+              "chunk_id": "handbook-sv-2025_p14_para_01",
+              "chunk_type": "by_paragraph",
+              "document_type": "handbook",
+              "year": 2025,
+              "page": 14,
+              "language": "vi",
+              "document_id": "handbook-sv-2025",
+              "chunk_index": 1,
+              "char_length": 250,
+              "chapter": "Chương II: Quy chế khảo thí và đánh giá học phần",
+              "section": "khao_thi_hoc_vu",
+              "page_id": "page_14"
+            },
+            "score": 0.6413,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p16_para_01",
+            "text": "Thời hạn công bố điểm thi: Chậm nhất sau 10 ngày làm việc kể từ ngày thi đối với hình thức thi trắc nghiệm,\nvà sau 15 ngày làm việc đối với hình thức thi tự luận, kết quả thi phải được cập nhật trên cổng thông tin sinh\nviên của Nhà trường.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 16,
+            "metadata": {
+              "page_id": "page_16",
+              "section": "khao_thi_hoc_vu",
+              "page": 16,
+              "source": "data\\handbook_sv_2025.pdf",
+              "chunk_type": "by_paragraph",
+              "character_count": 908,
+              "strategy": "B_or_C",
+              "chapter": "Chương II: Quy chế khảo thí và đánh giá học phần",
+              "chunk_id": "handbook-sv-2025_p16_para_01",
+              "chunk_index": 1,
+              "char_length": 239,
+              "year": 2025,
+              "document_id": "handbook-sv-2025",
+              "document_type": "handbook",
+              "language": "vi"
+            },
+            "score": 0.5692,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p17_para_01",
+            "text": "Điểm phúc khảo được công nhận là điểm chính thức của học phần nếu có sự thay đổi từ 0.5\nđiểm trở lên so với điểm ban đầu.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 17,
+            "metadata": {
+              "document_type": "handbook",
+              "chunk_type": "by_paragraph",
+              "year": 2025,
+              "strategy": "B_or_C",
+              "page_id": "page_17",
+              "chunk_id": "handbook-sv-2025_p17_para_01",
+              "chapter": "Chương II: Quy chế khảo thí và đánh giá học phần",
+              "section": "khao_thi_hoc_vu",
+              "char_length": 121,
+              "page": 17,
+              "language": "vi",
+              "source": "data\\handbook_sv_2025.pdf",
+              "chunk_index": 1,
+              "document_id": "handbook-sv-2025",
+              "character_count": 833
+            },
+            "score": 0.5361,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[handbook-sv-2025_p14_para_01 | data/handbook_sv_2025.pdf | page 14]\nSinh viên\nphải dự thi bổ sung vào đợt thi của học kỳ chính gần nhất tiếp theo để chuyển điểm I thành điểm chính thức. Quá thời hạn 1 năm học kể từ ngày được cấp điểm I mà sinh viên không dự thi bổ sung, điểm I sẽ tự động\nchuyển thành điểm F (0 điểm).\n\n[handbook-sv-2025_p16_para_01 | data/handbook_sv_2025.pdf | page 16]\nThời hạn công bố điểm thi: Chậm nhất sau 10 ngày làm việc kể từ ngày thi đối với hình thức thi trắc nghiệm,\nvà sau 15 ngày làm việc đối với hình thức thi tự luận, kết quả thi phải được cập nhật trên cổng thông tin sinh\nviên của Nhà trường.",
+        "context_ids": [
+          "handbook-sv-2025_p14_para_01",
+          "handbook-sv-2025_p16_para_01"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_seconds": 2.95
+  },
+  {
+    "query_id": "q10",
+    "split": "dev",
+    "question": "Thí sinh mang thiết bị thu phát sóng truyền tin vào phòng thi sẽ chịu hình thức xử lý kỷ luật nào?",
+    "status": "answered",
+    "answer": "Thí sinh mang thiết bị thu phát sóng truyền tin vào phòng thi sẽ bị lập biên bản đình chỉ thi và nhận điểm 0, bất kể thiết bị đó có bật hay tắt [handbook-sv-2025_p13_para_01].",
+    "citations": [
+      "handbook-sv-2025_p13_para_01"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "thiết bị thu phát sóng truyền tin phòng thi xử lý kỷ luật",
+        "filter": null,
+        "results": [
+          {
+            "id": "handbook-sv-2025_p13_para_01",
+            "text": "Mọi trường hợp mang thiết bị truyền tin vào\nphòng thi dù bật hay tắt đều bị lập biên bản đình chỉ thi và nhận điểm 0.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 13,
+            "metadata": {
+              "chunk_type": "by_paragraph",
+              "document_type": "handbook",
+              "chapter": "Chương II: Quy chế khảo thí và đánh giá học phần",
+              "page": 13,
+              "char_length": 117,
+              "document_id": "handbook-sv-2025",
+              "page_id": "page_13",
+              "year": 2025,
+              "strategy": "B_or_C",
+              "character_count": 897,
+              "language": "vi",
+              "section": "khao_thi_hoc_vu",
+              "source": "data\\handbook_sv_2025.pdf",
+              "chunk_index": 1,
+              "chunk_id": "handbook-sv-2025_p13_para_01"
+            },
+            "score": 0.4615,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p15_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 15 / 35\nCHƯƠNG II: QUY CHẾ KHẢO THÍ XỬ LÝ VI PHẠM KỶ LUẬT THI\nĐiều 22. Các mức độ xử lý vi phạm kỷ luật phòng thi\n1. Khiển trách: Áp dụng đối với thí sinh nhìn bài, trao đổi với thí sinh khác đã bị nhắc nhở 1 lần nhưng vẫn tái\nphạm. Thí sinh bị khiển trách sẽ bị trừ 25% tổng số điểm của bài thi môn đó. 2. Cảnh cáo phòng thi: Áp dụng đối với thí sinh mang tài liệu vào phòng thi nhưng chưa sử dụng; hoặc chép\nbài của người khác. Thí sinh bị cảnh cáo sẽ bị trừ 50% tổng số điểm của bài thi môn đó. 3. Đình chỉ thi: Áp dụng đối với thí sinh mang thiết bị thu phát sóng, sử dụng tài liệu trong phòng thi, hoặc có\nhành vi chống đối giám thị. Thí sinh bị đình chỉ thi nhận điểm 0 cho bài thi đó, bị hủy toàn bộ kết quả học phần\nvà bị ghi học bạ kỷ luật cấp trường. 4.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 15,
+            "metadata": {
+              "section": "khao_thi_hoc_vu",
+              "chapter": "Chương II: Quy chế khảo thí và đánh giá học phần",
+              "character_count": 911,
+              "source": "data\\handbook_sv_2025.pdf",
+              "chunk_index": 0,
+              "page": 15,
+              "language": "vi",
+              "strategy": "B_or_C",
+              "document_type": "handbook",
+              "document_id": "handbook-sv-2025",
+              "page_id": "page_15",
+              "chunk_id": "handbook-sv-2025_p15_para_00",
+              "char_length": 791,
+              "year": 2025,
+              "chunk_type": "by_paragraph"
+            },
+            "score": 0.4,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p20_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 20 / 35\nCHƯƠNG III: CÔNG TÁC SINH VIÊN QUY TRÌNH CHẤM RÈN LUYỆN\nĐiều 32. Quy trình và thời hạn đánh giá điểm rèn luyện\n1. Quy trình đánh giá gồm 3 cấp: Sinh viên tự chấm điểm trên hệ thống trực tuyến > Tập thể lớp sinh hoạt và\nbình xét dưới sự chủ trì của Ban cán sự lớp > Hội đồng đánh giá rèn luyện cấp Khoa thẩm định và Hiệu\ntrưởng ra quyết định công nhận.\n2. Thời hạn hoàn thành đánh giá rèn luyện: Sinh viên phải hoàn tất tự đánh giá trong vòng 10 ngày kể từ khi\nkết thúc học kỳ. Ban cán sự lớp tổ chức họp xét và gửi biên bản lên Khoa trong vòng 7 ngày tiếp theo.\n3. Sinh viên không tham gia tự đánh giá điểm rèn luyện đúng thời hạn quy định sẽ bị xếp loại Rèn luyện Kém\n(dưới 35 điểm) trong học kỳ đó và không được quyền khiếu nại.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 20,
+            "metadata": {
+              "page": 20,
+              "language": "vi",
+              "source": "data\\handbook_sv_2025.pdf",
+              "section": "cong_tac_sinh_vien",
+              "page_id": "page_20",
+              "document_type": "handbook",
+              "document_id": "handbook-sv-2025",
+              "char_length": 766,
+              "chapter": "Chương III: Công tác sinh viên, học bổng và chế độ chính sách",
+              "character_count": 766,
+              "year": 2025,
+              "chunk_type": "by_paragraph",
+              "chunk_id": "handbook-sv-2025_p20_para_00",
+              "chunk_index": 0,
+              "strategy": "B_or_C"
+            },
+            "score": 0.3676,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[handbook-sv-2025_p13_para_01 | data/handbook_sv_2025.pdf | page 13]\nMọi trường hợp mang thiết bị truyền tin vào\nphòng thi dù bật hay tắt đều bị lập biên bản đình chỉ thi và nhận điểm 0.",
+        "context_ids": [
+          "handbook-sv-2025_p13_para_01"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_seconds": 2.69
+  },
+  {
+    "query_id": "q11",
+    "split": "dev",
+    "question": "Thời hạn nộp đơn và mức lệ phí phúc khảo bài thi kết thúc học phần là bao nhiêu?",
+    "status": "answered",
+    "answer": "Thời hạn nộp đơn phúc khảo bài thi kết thúc học phần là trong vòng 07 ngày làm việc kể từ ngày công bố điểm thi. Mức lệ phí phúc khảo là 50.000 VNĐ cho mỗi bài thi [handbook-sv-2025_p17_para_00].",
+    "citations": [
+      "handbook-sv-2025_p17_para_00"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "thời hạn nộp đơn lệ phí phúc khảo bài thi kết thúc học phần",
+        "filter": null,
+        "results": [
+          {
+            "id": "handbook-sv-2025_p17_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 17 / 35\nCHƯƠNG II: QUY CHẾ KHẢO THÍ PHÚC KHẢO ĐIỂM THI\nĐiều 24. Thủ tục và quy trình phúc khảo bài thi\n1. Sinh viên có quyền làm đơn đề nghị phúc khảo bài thi kết thúc học phần nếu nhận thấy điểm số công bố\nchưa phản ánh đúng kết quả làm bài của mình. Đơn phúc khảo phải nộp trực tuyến qua cổng sinh viên trong\nvòng 07 ngày làm việc kể từ ngày công bố điểm thi. 2. Lệ phí phúc khảo là 50.000 VNĐ cho mỗi bài thi. Nếu sau khi phúc khảo điểm thi của sinh viên được điều\nchỉnh tăng từ 0.5 điểm trở lên, Nhà trường sẽ hoàn lại 100% lệ phí phúc khảo cho sinh viên. 3. Thời gian giải quyết phúc khảo và công bố kết quả điểm phúc khảo không quá 15 ngày làm việc kể từ ngày\nhết hạn nhận đơn.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 17,
+            "metadata": {
+              "char_length": 711,
+              "character_count": 833,
+              "chunk_id": "handbook-sv-2025_p17_para_00",
+              "chunk_type": "by_paragraph",
+              "page_id": "page_17",
+              "document_id": "handbook-sv-2025",
+              "source": "data\\handbook_sv_2025.pdf",
+              "page": 17,
+              "language": "vi",
+              "document_type": "handbook",
+              "year": 2025,
+              "chapter": "Chương II: Quy chế khảo thí và đánh giá học phần",
+              "section": "khao_thi_hoc_vu",
+              "chunk_index": 0,
+              "strategy": "B_or_C"
+            },
+            "score": 0.7617,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p16_para_01",
+            "text": "Thời hạn công bố điểm thi: Chậm nhất sau 10 ngày làm việc kể từ ngày thi đối với hình thức thi trắc nghiệm,\nvà sau 15 ngày làm việc đối với hình thức thi tự luận, kết quả thi phải được cập nhật trên cổng thông tin sinh\nviên của Nhà trường.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 16,
+            "metadata": {
+              "source": "data\\handbook_sv_2025.pdf",
+              "chapter": "Chương II: Quy chế khảo thí và đánh giá học phần",
+              "document_id": "handbook-sv-2025",
+              "strategy": "B_or_C",
+              "page_id": "page_16",
+              "page": 16,
+              "document_type": "handbook",
+              "character_count": 908,
+              "year": 2025,
+              "chunk_type": "by_paragraph",
+              "language": "vi",
+              "chunk_id": "handbook-sv-2025_p16_para_01",
+              "chunk_index": 1,
+              "section": "khao_thi_hoc_vu",
+              "char_length": 239
+            },
+            "score": 0.7136,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p11_para_01",
+            "text": "Điều kiện tham dự kỳ thi kết thúc học phần\n1. Sinh viên được dự thi kết thúc học phần khi đáp ứng đủ các tiêu chuẩn:\na) Tham dự tối thiểu 80% số tiết học lý thuyết và thảo luận trên lớp;\nb) Hoàn thành đầy đủ 100% các bài thực hành, thí nghiệm bắt buộc của học phần;\nc) Điểm đánh giá quá trình đạt từ 4.0 điểm trở lên theo thang điểm 10. 2. Sinh viên nghỉ học quá 20% tổng số tiết học không có lý do chính đáng sẽ nhận điểm 0 chuyên cần, bị cấm\nthi kết thúc học phần và phải nhận điểm F cho học phần đó.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 11,
+            "metadata": {
+              "page": 11,
+              "section": "khao_thi_hoc_vu",
+              "chunk_id": "handbook-sv-2025_p11_para_01",
+              "char_length": 502,
+              "page_id": "page_11",
+              "year": 2025,
+              "chunk_index": 1,
+              "chapter": "Chương II: Quy chế khảo thí và đánh giá học phần",
+              "source": "data\\handbook_sv_2025.pdf",
+              "strategy": "B_or_C",
+              "language": "vi",
+              "character_count": 1298,
+              "document_type": "handbook",
+              "chunk_type": "by_paragraph",
+              "document_id": "handbook-sv-2025"
+            },
+            "score": 0.662,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[handbook-sv-2025_p17_para_00 | data/handbook_sv_2025.pdf | page 17]\nSỔ TAY SINH VIÊN 2025 TRANG 17 / 35\nCHƯƠNG II: QUY CHẾ KHẢO THÍ PHÚC KHẢO ĐIỂM THI\nĐiều 24. Thủ tục và quy trình phúc khảo bài thi\n1. Sinh viên có quyền làm đơn đề nghị phúc khảo bài thi kết thúc học phần nếu nhận thấy điểm số công bố\nchưa phản ánh đúng kết quả làm bài của mình. Đơn phúc khảo phải nộp trực tuyến qua cổng sinh viên trong\nvòng 07 ngày làm việc kể từ ngày công bố điểm thi. 2. Lệ phí phúc khảo là 50.000 VNĐ cho mỗi bài thi. Nếu sau khi phúc khảo điểm thi của sinh viên được điều\nchỉnh tăng từ 0.5 điểm trở lên, Nhà trường sẽ hoàn lại 100% lệ phí phúc khảo cho sinh viên. 3. Thời gian giải quyết phúc khảo và công bố kết quả điểm phúc khảo không quá 15 ngày làm việc kể từ ngày\nhết hạn nhận đơn.",
+        "context_ids": [
+          "handbook-sv-2025_p17_para_00"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_seconds": 2.97
+  },
+  {
+    "query_id": "q12",
+    "split": "dev",
+    "question": "Trong công tác sinh viên, học bổng khuyến khích học tập mức Xuất sắc yêu cầu mức điểm GPA và điểm rèn luyện là bao nhiêu?",
+    "status": "answered",
+    "answer": "Học bổng khuyến khích học tập mức Xuất sắc yêu cầu mức điểm GPA từ 3.60 và điểm rèn luyện phải đạt loại Xuất sắc [handbook-sv-2025_p26_para_00].",
+    "citations": [
+      "handbook-sv-2025_p26_para_00"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "học bổng khuyến khích học tập mức Xuất sắc GPA điểm rèn luyện",
+        "filter": {
+          "section": "cong_tac_sinh_vien"
+        },
+        "results": [
+          {
+            "id": "handbook-sv-2025_p21_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 21 / 35\nCHƯƠNG III: CÔNG TÁC SINH VIÊN HỌC BỔNG KHUYẾN KHÍCH HỌC TẬP\nĐiều 33. Tiêu chuẩn xét cấp học bổng khuyến khích học tập\n1. Học bổng khuyến khích học tập được xét cấp theo từng học kỳ chính cho sinh viên đạt đồng thời kết quả học\ntập và kết quả rèn luyện từ loại Khá trở lên, trong chỉ tiêu quỹ học bổng của từng ngành đào tạo. 2. Các mức học bổng khuyến khích học tập:\nMức Xuất sắc: Điểm GPA từ 3.60 trở lên và Điểm rèn luyện từ 90 điểm trở lên; giá trị học bổng bằng 120%\nmức học phí của học kỳ;\nMức Giỏi: Điểm GPA từ 3.20 đến 3.59 và Điểm rèn luyện từ 80 điểm trở lên; giá trị học bổng bằng 100%\nmức học phí của học kỳ;\nMức Khá: Điểm GPA từ 2.80 đến 3.19 và Điểm rèn luyện từ 70 điểm trở lên; giá trị học bổng bằng 80% mức\nhọc phí của học kỳ. 3.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 21,
+            "metadata": {
+              "source": "data\\handbook_sv_2025.pdf",
+              "chunk_index": 0,
+              "chunk_type": "by_paragraph",
+              "document_id": "handbook-sv-2025",
+              "document_type": "handbook",
+              "char_length": 782,
+              "chunk_id": "handbook-sv-2025_p21_para_00",
+              "character_count": 952,
+              "chapter": "Chương III: Công tác sinh viên, học bổng và chế độ chính sách",
+              "strategy": "B_or_C",
+              "page_id": "page_21",
+              "language": "vi",
+              "year": 2025,
+              "page": 21,
+              "section": "cong_tac_sinh_vien"
+            },
+            "score": 0.7853,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p26_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 26 / 35\nCHƯƠNG III: CÔNG TÁC SINH VIÊN KHEN THƯỞNG VÀ KỶ LUẬT SINH VIÊN\nĐiều 38. Các hình thức khen thưởng sinh viên\n1. Khen thưởng định kỳ cuối năm học: Giấy khen của Hiệu trưởng dành cho sinh viên đạt danh hiệu Sinh viên\nXuất sắc (CPA từ 3.60 và Rèn luyện Xuất sắc) và Sinh viên Giỏi (CPA từ 3.20 và Rèn luyện Tốt trở lên). 2. Khen thưởng đột xuất: Dành cho cá nhân hoặc tập thể đạt giải thưởng trong các kỳ thi Olympic quốc gia,\nquốc tế, nghiên cứu khoa học, khởi nghiệp sáng tạo hoặc có hành động dũng cảm cứu người, nhặt được của\nrơi trả lại người mất. Điều 39. Các hình thức kỷ luật sinh viên\n1.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 26,
+            "metadata": {
+              "char_length": 629,
+              "chunk_type": "by_paragraph",
+              "chapter": "Chương III: Công tác sinh viên, học bổng và chế độ chính sách",
+              "language": "vi",
+              "year": 2025,
+              "document_type": "handbook",
+              "page_id": "page_26",
+              "page": 26,
+              "character_count": 1005,
+              "source": "data\\handbook_sv_2025.pdf",
+              "document_id": "handbook-sv-2025",
+              "section": "cong_tac_sinh_vien",
+              "strategy": "B_or_C",
+              "chunk_index": 0,
+              "chunk_id": "handbook-sv-2025_p26_para_00"
+            },
+            "score": 0.5395,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p21_para_01",
+            "text": "Điều kiện cần: Trong học kỳ xét học bổng, sinh viên phải đăng ký học tối thiểu 15 tín chỉ, không có môn học\nnào bị điểm F và không bị kỷ luật từ mức khiển trách trở lên.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 21,
+            "metadata": {
+              "document_id": "handbook-sv-2025",
+              "chapter": "Chương III: Công tác sinh viên, học bổng và chế độ chính sách",
+              "document_type": "handbook",
+              "chunk_index": 1,
+              "page_id": "page_21",
+              "page": 21,
+              "char_length": 169,
+              "year": 2025,
+              "section": "cong_tac_sinh_vien",
+              "chunk_type": "by_paragraph",
+              "chunk_id": "handbook-sv-2025_p21_para_01",
+              "source": "data\\handbook_sv_2025.pdf",
+              "character_count": 952,
+              "language": "vi",
+              "strategy": "B_or_C"
+            },
+            "score": 0.4175,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[handbook-sv-2025_p26_para_00 | data/handbook_sv_2025.pdf | page 26]\nSỔ TAY SINH VIÊN 2025 TRANG 26 / 35\nCHƯƠNG III: CÔNG TÁC SINH VIÊN KHEN THƯỞNG VÀ KỶ LUẬT SINH VIÊN\nĐiều 38. Các hình thức khen thưởng sinh viên\n1. Khen thưởng định kỳ cuối năm học: Giấy khen của Hiệu trưởng dành cho sinh viên đạt danh hiệu Sinh viên\nXuất sắc (CPA từ 3.60 và Rèn luyện Xuất sắc) và Sinh viên Giỏi (CPA từ 3.20 và Rèn luyện Tốt trở lên). 2. Khen thưởng đột xuất: Dành cho cá nhân hoặc tập thể đạt giải thưởng trong các kỳ thi Olympic quốc gia,\nquốc tế, nghiên cứu khoa học, khởi nghiệp sáng tạo hoặc có hành động dũng cảm cứu người, nhặt được của\nrơi trả lại người mất. Điều 39. Các hình thức kỷ luật sinh viên\n1.",
+        "context_ids": [
+          "handbook-sv-2025_p26_para_00"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_seconds": 2.53
+  },
+  {
+    "query_id": "q13",
+    "split": "dev",
+    "question": "Những nhóm đối tượng sinh viên nào được miễn 100% học phí theo quy định chính sách của Nhà nước?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "nhóm đối tượng sinh viên miễn 100% học phí",
+        "filter": null,
+        "results": [
+          {
+            "id": "handbook-sv-2025_p22_para_01",
+            "text": "Đối tượng được giảm 50% học phí: Sinh viên là con cán bộ, công chức, viên chức mà cha hoặc mẹ bị tai\nnạn lao động hoặc mắc bệnh nghề nghiệp được hưởng trợ cấp thường xuyên. 4. Thời hạn nộp hồ sơ xin miễn giảm học phí: Sinh viên nộp 01 bộ hồ sơ hợp lệ về Phòng Công tác Sinh viên\ntrong vòng 30 ngày kể từ ngày bắt đầu học kỳ chính.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 22,
+            "metadata": {
+              "source": "data\\handbook_sv_2025.pdf",
+              "page": 22,
+              "chunk_id": "handbook-sv-2025_p22_para_01",
+              "document_id": "handbook-sv-2025",
+              "page_id": "page_22",
+              "chunk_type": "by_paragraph",
+              "document_type": "handbook",
+              "chapter": "Chương III: Công tác sinh viên, học bổng và chế độ chính sách",
+              "chunk_index": 1,
+              "strategy": "B_or_C",
+              "char_length": 330,
+              "section": "cong_tac_sinh_vien",
+              "year": 2025,
+              "language": "vi",
+              "character_count": 1074
+            },
+            "score": 0.6319,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p28_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 28 / 35\nCHƯƠNG IV: NCKH SINH VIÊN KINH PHÍ VÀ ĐỊNH MỨC HỖ TRỢ\nĐiều 47. Định mức kinh phí tài trợ đề tài NCKH sinh viên\n1. Nhà trường trích tối thiểu 2% từ nguồn thu học phí hợp pháp để lập Quỹ Phát triển Khoa học và Công nghệ\nsinh viên. 2. Mức kinh phí tài trợ trực tiếp cho mỗi đề tài NCKH sinh viên cấp trường được Hội đồng Khoa học phê duyệt\ntheo 3 nhóm quy mô:\nĐề tài loại A (Đề tài trọng điểm có sản phẩm phần mềm/thiết bị hoàn chỉnh ứng dụng thực tế): Kinh phí tài\ntrợ tối đa 25.000.000 VNĐ / đề tài;\nĐề tài loại B (Đề tài nghiên cứu ứng dụng công nghệ, thuật toán AI): Kinh phí tài trợ tối đa 15.000.000 VNĐ /\nđề tài;\nĐề tài loại C (Đề tài điều tra, khảo sát, nghiên cứu lý thuyết nền tảng): Kinh phí tài trợ tối đa 8.000.000 VNĐ\n/ đề tài. 3.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 28,
+            "metadata": {
+              "chunk_index": 0,
+              "chunk_id": "handbook-sv-2025_p28_para_00",
+              "char_length": 777,
+              "chapter": "Chương IV: Nghiên cứu khoa học và đổi mới sáng tạo sinh viên",
+              "document_id": "handbook-sv-2025",
+              "language": "vi",
+              "page_id": "page_28",
+              "chunk_type": "by_paragraph",
+              "page": 28,
+              "character_count": 996,
+              "section": "nghien_cuu_khoa_hoc",
+              "source": "data\\handbook_sv_2025.pdf",
+              "document_type": "handbook",
+              "strategy": "B_or_C",
+              "year": 2025
+            },
+            "score": 0.5748,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p22_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 22 / 35\nCHƯƠNG III: CÔNG TÁC SINH VIÊN MIỄN GIẢM HỌC PHÍ VÀ TRỢ CẤP\nĐiều 34. Chế độ miễn, giảm học phí theo quy định nhà nước\n1. Đối tượng được miễn 100% học phí:\na) Sinh viên là con của người có công với cách mạng theo Pháp lệnh Ưu đãi người có công;\nb) Sinh viên khuyết tật nặng hoặc đặc biệt nặng có giấy xác nhận y tế hợp lệ;\nc) Sinh viên mồ côi cả cha lẫn mẹ không nơi nương tựa;\nd) Sinh viên dân tộc thiểu số rất ít người (thuộc 16 dân tộc thiểu số theo quy định của Chính phủ) ở vùng có\nđiều kiện kinh tế xã hội đặc biệt khó khăn. 2. Đối tượng được giảm 70% học phí: Sinh viên là người dân tộc thiểu số (ngoài 16 dân tộc rất ít người) ở\nthôn/bản đặc biệt khó khăn, xã khu vực III vùng dân tộc và miền núi. 3.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 22,
+            "metadata": {
+              "page": 22,
+              "chunk_index": 0,
+              "page_id": "page_22",
+              "language": "vi",
+              "document_type": "handbook",
+              "char_length": 743,
+              "year": 2025,
+              "chunk_id": "handbook-sv-2025_p22_para_00",
+              "chunk_type": "by_paragraph",
+              "document_id": "handbook-sv-2025",
+              "source": "data\\handbook_sv_2025.pdf",
+              "character_count": 1074,
+              "strategy": "B_or_C",
+              "chapter": "Chương III: Công tác sinh viên, học bổng và chế độ chính sách",
+              "section": "cong_tac_sinh_vien"
+            },
+            "score": 0.5501,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[handbook-sv-2025_p22_para_01 | data/handbook_sv_2025.pdf | page 22]\nĐối tượng được giảm 50% học phí: Sinh viên là con cán bộ, công chức, viên chức mà cha hoặc mẹ bị tai\nnạn lao động hoặc mắc bệnh nghề nghiệp được hưởng trợ cấp thường xuyên. 4. Thời hạn nộp hồ sơ xin miễn giảm học phí: Sinh viên nộp 01 bộ hồ sơ hợp lệ về Phòng Công tác Sinh viên\ntrong vòng 30 ngày kể từ ngày bắt đầu học kỳ chính.",
+        "context_ids": [
+          "handbook-sv-2025_p22_para_01"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_seconds": 2.14
+  },
+  {
+    "query_id": "q14",
+    "split": "dev",
+    "question": "Thẻ Bảo hiểm Y tế của sinh viên có giá trị sử dụng trong khoảng thời gian nào hàng năm?",
+    "status": "answered",
+    "answer": "Thẻ Bảo hiểm Y tế của sinh viên có giá trị sử dụng từ ngày 01 tháng 01 đến ngày 31 tháng 12 hàng năm [handbook-sv-2025_p23_para_00].",
+    "citations": [
+      "handbook-sv-2025_p23_para_00"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Thẻ Bảo hiểm Y tế của sinh viên giá trị sử dụng",
+        "filter": null,
+        "results": [
+          {
+            "id": "handbook-sv-2025_p23_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 23 / 35\nCHƯƠNG III: CÔNG TÁC SINH VIÊN BẢO HIỂM Y TẾ BẮT BUỘC\nĐiều 35. Quy định về Bảo hiểm Y tế sinh viên\n1. Tham gia Bảo hiểm Y tế (BHYT) là nghĩa vụ bắt buộc của toàn bộ sinh viên Việt Nam theo Luật Bảo hiểm Y\ntế. Sinh viên được ngân sách Nhà nước hỗ trợ tối thiểu 30% mức đóng BHYT, sinh viên tự đóng 70% mức\nđóng theo quy định hiện hành. 2. Nhà trường tổ chức thu phí BHYT tập trung vào đầu mỗi năm học (tháng 9 và tháng 10). Thời hạn sử dụng\ncủa thẻ BHYT sinh viên có giá trị từ ngày 01 tháng 01 đến ngày 31 tháng 12 hàng năm. 3.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 23,
+            "metadata": {
+              "language": "vi",
+              "page": 23,
+              "chunk_index": 0,
+              "char_length": 563,
+              "document_type": "handbook",
+              "source": "data\\handbook_sv_2025.pdf",
+              "section": "cong_tac_sinh_vien",
+              "chapter": "Chương III: Công tác sinh viên, học bổng và chế độ chính sách",
+              "character_count": 983,
+              "chunk_id": "handbook-sv-2025_p23_para_00",
+              "year": 2025,
+              "strategy": "B_or_C",
+              "chunk_type": "by_paragraph",
+              "document_id": "handbook-sv-2025",
+              "page_id": "page_23"
+            },
+            "score": 0.687,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p23_para_01",
+            "text": "Sinh viên đã có thẻ BHYT thuộc nhóm đối tượng khác (con sĩ quan quân đội, công an, hộ nghèo, cận nghèo)\nkhông phải đóng tiền BHYT tại trường nhưng bắt buộc phải nộp bản sao thẻ BHYT hợp lệ về Trạm Y tế trường\ntrước ngày 15 tháng 10 hàng năm để quản lý theo dõi. 4. Sinh viên không tham gia BHYT mà không có lý do chính đáng sẽ bị trừ 10 điểm rèn luyện tại Nội dung 2 và\nkhông được xét cấp học bổng khuyến khích học tập.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 23,
+            "metadata": {
+              "chunk_id": "handbook-sv-2025_p23_para_01",
+              "section": "cong_tac_sinh_vien",
+              "chunk_index": 1,
+              "strategy": "B_or_C",
+              "chunk_type": "by_paragraph",
+              "chapter": "Chương III: Công tác sinh viên, học bổng và chế độ chính sách",
+              "language": "vi",
+              "char_length": 419,
+              "character_count": 983,
+              "page": 23,
+              "year": 2025,
+              "page_id": "page_23",
+              "document_type": "handbook",
+              "document_id": "handbook-sv-2025",
+              "source": "data\\handbook_sv_2025.pdf"
+            },
+            "score": 0.4967,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p28_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 28 / 35\nCHƯƠNG IV: NCKH SINH VIÊN KINH PHÍ VÀ ĐỊNH MỨC HỖ TRỢ\nĐiều 47. Định mức kinh phí tài trợ đề tài NCKH sinh viên\n1. Nhà trường trích tối thiểu 2% từ nguồn thu học phí hợp pháp để lập Quỹ Phát triển Khoa học và Công nghệ\nsinh viên. 2. Mức kinh phí tài trợ trực tiếp cho mỗi đề tài NCKH sinh viên cấp trường được Hội đồng Khoa học phê duyệt\ntheo 3 nhóm quy mô:\nĐề tài loại A (Đề tài trọng điểm có sản phẩm phần mềm/thiết bị hoàn chỉnh ứng dụng thực tế): Kinh phí tài\ntrợ tối đa 25.000.000 VNĐ / đề tài;\nĐề tài loại B (Đề tài nghiên cứu ứng dụng công nghệ, thuật toán AI): Kinh phí tài trợ tối đa 15.000.000 VNĐ /\nđề tài;\nĐề tài loại C (Đề tài điều tra, khảo sát, nghiên cứu lý thuyết nền tảng): Kinh phí tài trợ tối đa 8.000.000 VNĐ\n/ đề tài. 3.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 28,
+            "metadata": {
+              "language": "vi",
+              "page_id": "page_28",
+              "document_id": "handbook-sv-2025",
+              "strategy": "B_or_C",
+              "char_length": 777,
+              "source": "data\\handbook_sv_2025.pdf",
+              "chunk_index": 0,
+              "page": 28,
+              "year": 2025,
+              "chunk_type": "by_paragraph",
+              "document_type": "handbook",
+              "chunk_id": "handbook-sv-2025_p28_para_00",
+              "chapter": "Chương IV: Nghiên cứu khoa học và đổi mới sáng tạo sinh viên",
+              "section": "nghien_cuu_khoa_hoc",
+              "character_count": 996
+            },
+            "score": 0.4311,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[handbook-sv-2025_p23_para_00 | data/handbook_sv_2025.pdf | page 23]\nSỔ TAY SINH VIÊN 2025 TRANG 23 / 35\nCHƯƠNG III: CÔNG TÁC SINH VIÊN BẢO HIỂM Y TẾ BẮT BUỘC\nĐiều 35. Quy định về Bảo hiểm Y tế sinh viên\n1. Tham gia Bảo hiểm Y tế (BHYT) là nghĩa vụ bắt buộc của toàn bộ sinh viên Việt Nam theo Luật Bảo hiểm Y\ntế. Sinh viên được ngân sách Nhà nước hỗ trợ tối thiểu 30% mức đóng BHYT, sinh viên tự đóng 70% mức\nđóng theo quy định hiện hành. 2. Nhà trường tổ chức thu phí BHYT tập trung vào đầu mỗi năm học (tháng 9 và tháng 10). Thời hạn sử dụng\ncủa thẻ BHYT sinh viên có giá trị từ ngày 01 tháng 01 đến ngày 31 tháng 12 hàng năm. 3.",
+        "context_ids": [
+          "handbook-sv-2025_p23_para_00"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_seconds": 2.85
+  },
+  {
+    "query_id": "q15",
+    "split": "dev",
+    "question": "Sinh viên tham gia hiến máu nhân đạo được cộng bao nhiêu điểm vào kết quả đánh giá rèn luyện học kỳ?",
+    "status": "answered",
+    "answer": "Sinh viên tham gia hiến máu nhân đạo được cộng 5 điểm vào điểm rèn luyện học kỳ [handbook-sv-2025_p25_para_00].",
+    "citations": [
+      "handbook-sv-2025_p25_para_00"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "hiến máu nhân đạo cộng điểm đánh giá rèn luyện học kỳ",
+        "filter": null,
+        "results": [
+          {
+            "id": "handbook-sv-2025_p25_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 25 / 35\nCHƯƠNG III: CÔNG TÁC SINH VIÊN HOẠT ĐỘNG NGOẠI KHÓA VÀ TÌNH NGUYỆN\nĐiều 37. Quản lý hoạt động tình nguyện và Ngày công ích\n1. Mỗi sinh viên trong suốt khóa học phải tích lũy tối thiểu 5 ngày công ích hoặc tham gia ít nhất 2 chiến dịch\ntình nguyện (Chiến dịch Mùa hè xanh, Tiếp sức mùa thi, Hiến máu nhân đạo) được Đoàn Thanh niên Hội\nSinh viên trường chứng nhận. 2. Sinh viên tham gia hiến máu tình nguyện được cộng 5 điểm vào điểm rèn luyện học kỳ tại Nội dung 3, được\ncấp giấy chứng nhận hiến máu và bồi dưỡng suất ăn nhẹ theo quy định của Hội Chữ thập đỏ. 3.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 25,
+            "metadata": {
+              "chunk_id": "handbook-sv-2025_p25_para_00",
+              "section": "cong_tac_sinh_vien",
+              "char_length": 597,
+              "page": 25,
+              "chunk_type": "by_paragraph",
+              "chapter": "Chương III: Công tác sinh viên, học bổng và chế độ chính sách",
+              "year": 2025,
+              "chunk_index": 0,
+              "document_id": "handbook-sv-2025",
+              "document_type": "handbook",
+              "page_id": "page_25",
+              "language": "vi",
+              "strategy": "B_or_C",
+              "source": "data\\handbook_sv_2025.pdf",
+              "character_count": 847
+            },
+            "score": 0.5702,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p26_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 26 / 35\nCHƯƠNG III: CÔNG TÁC SINH VIÊN KHEN THƯỞNG VÀ KỶ LUẬT SINH VIÊN\nĐiều 38. Các hình thức khen thưởng sinh viên\n1. Khen thưởng định kỳ cuối năm học: Giấy khen của Hiệu trưởng dành cho sinh viên đạt danh hiệu Sinh viên\nXuất sắc (CPA từ 3.60 và Rèn luyện Xuất sắc) và Sinh viên Giỏi (CPA từ 3.20 và Rèn luyện Tốt trở lên). 2. Khen thưởng đột xuất: Dành cho cá nhân hoặc tập thể đạt giải thưởng trong các kỳ thi Olympic quốc gia,\nquốc tế, nghiên cứu khoa học, khởi nghiệp sáng tạo hoặc có hành động dũng cảm cứu người, nhặt được của\nrơi trả lại người mất. Điều 39. Các hình thức kỷ luật sinh viên\n1.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 26,
+            "metadata": {
+              "page": 26,
+              "chunk_index": 0,
+              "page_id": "page_26",
+              "source": "data\\handbook_sv_2025.pdf",
+              "char_length": 629,
+              "year": 2025,
+              "section": "cong_tac_sinh_vien",
+              "chunk_id": "handbook-sv-2025_p26_para_00",
+              "document_id": "handbook-sv-2025",
+              "chapter": "Chương III: Công tác sinh viên, học bổng và chế độ chính sách",
+              "strategy": "B_or_C",
+              "document_type": "handbook",
+              "language": "vi",
+              "character_count": 1005,
+              "chunk_type": "by_paragraph"
+            },
+            "score": 0.5677,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p23_para_01",
+            "text": "Sinh viên đã có thẻ BHYT thuộc nhóm đối tượng khác (con sĩ quan quân đội, công an, hộ nghèo, cận nghèo)\nkhông phải đóng tiền BHYT tại trường nhưng bắt buộc phải nộp bản sao thẻ BHYT hợp lệ về Trạm Y tế trường\ntrước ngày 15 tháng 10 hàng năm để quản lý theo dõi. 4. Sinh viên không tham gia BHYT mà không có lý do chính đáng sẽ bị trừ 10 điểm rèn luyện tại Nội dung 2 và\nkhông được xét cấp học bổng khuyến khích học tập.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 23,
+            "metadata": {
+              "char_length": 419,
+              "strategy": "B_or_C",
+              "chunk_id": "handbook-sv-2025_p23_para_01",
+              "year": 2025,
+              "page": 23,
+              "document_id": "handbook-sv-2025",
+              "page_id": "page_23",
+              "language": "vi",
+              "character_count": 983,
+              "section": "cong_tac_sinh_vien",
+              "chapter": "Chương III: Công tác sinh viên, học bổng và chế độ chính sách",
+              "chunk_index": 1,
+              "chunk_type": "by_paragraph",
+              "document_type": "handbook",
+              "source": "data\\handbook_sv_2025.pdf"
+            },
+            "score": 0.5176,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[handbook-sv-2025_p25_para_00 | data/handbook_sv_2025.pdf | page 25]\nSỔ TAY SINH VIÊN 2025 TRANG 25 / 35\nCHƯƠNG III: CÔNG TÁC SINH VIÊN HOẠT ĐỘNG NGOẠI KHÓA VÀ TÌNH NGUYỆN\nĐiều 37. Quản lý hoạt động tình nguyện và Ngày công ích\n1. Mỗi sinh viên trong suốt khóa học phải tích lũy tối thiểu 5 ngày công ích hoặc tham gia ít nhất 2 chiến dịch\ntình nguyện (Chiến dịch Mùa hè xanh, Tiếp sức mùa thi, Hiến máu nhân đạo) được Đoàn Thanh niên Hội\nSinh viên trường chứng nhận. 2. Sinh viên tham gia hiến máu tình nguyện được cộng 5 điểm vào điểm rèn luyện học kỳ tại Nội dung 3, được\ncấp giấy chứng nhận hiến máu và bồi dưỡng suất ăn nhẹ theo quy định của Hội Chữ thập đỏ. 3.",
+        "context_ids": [
+          "handbook-sv-2025_p25_para_00"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_seconds": 2.76
+  },
+  {
+    "query_id": "u01",
+    "split": "dev",
+    "question": "Mức phí gửi xe máy và xe đạp điện theo tháng tại tầng hầm ký túc xá là bao nhiêu tiền?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "mức phí gửi xe máy xe đạp điện ký túc xá",
+        "filter": null,
+        "results": [
+          {
+            "id": "handbook-sv-2025_p23_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 23 / 35\nCHƯƠNG III: CÔNG TÁC SINH VIÊN BẢO HIỂM Y TẾ BẮT BUỘC\nĐiều 35. Quy định về Bảo hiểm Y tế sinh viên\n1. Tham gia Bảo hiểm Y tế (BHYT) là nghĩa vụ bắt buộc của toàn bộ sinh viên Việt Nam theo Luật Bảo hiểm Y\ntế. Sinh viên được ngân sách Nhà nước hỗ trợ tối thiểu 30% mức đóng BHYT, sinh viên tự đóng 70% mức\nđóng theo quy định hiện hành. 2. Nhà trường tổ chức thu phí BHYT tập trung vào đầu mỗi năm học (tháng 9 và tháng 10). Thời hạn sử dụng\ncủa thẻ BHYT sinh viên có giá trị từ ngày 01 tháng 01 đến ngày 31 tháng 12 hàng năm. 3.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 23,
+            "metadata": {
+              "character_count": 983,
+              "document_type": "handbook",
+              "chunk_type": "by_paragraph",
+              "page": 23,
+              "char_length": 563,
+              "document_id": "handbook-sv-2025",
+              "language": "vi",
+              "chunk_index": 0,
+              "year": 2025,
+              "source": "data\\handbook_sv_2025.pdf",
+              "chunk_id": "handbook-sv-2025_p23_para_00",
+              "page_id": "page_23",
+              "section": "cong_tac_sinh_vien",
+              "chapter": "Chương III: Công tác sinh viên, học bổng và chế độ chính sách",
+              "strategy": "B_or_C"
+            },
+            "score": 0.4427,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p28_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 28 / 35\nCHƯƠNG IV: NCKH SINH VIÊN KINH PHÍ VÀ ĐỊNH MỨC HỖ TRỢ\nĐiều 47. Định mức kinh phí tài trợ đề tài NCKH sinh viên\n1. Nhà trường trích tối thiểu 2% từ nguồn thu học phí hợp pháp để lập Quỹ Phát triển Khoa học và Công nghệ\nsinh viên. 2. Mức kinh phí tài trợ trực tiếp cho mỗi đề tài NCKH sinh viên cấp trường được Hội đồng Khoa học phê duyệt\ntheo 3 nhóm quy mô:\nĐề tài loại A (Đề tài trọng điểm có sản phẩm phần mềm/thiết bị hoàn chỉnh ứng dụng thực tế): Kinh phí tài\ntrợ tối đa 25.000.000 VNĐ / đề tài;\nĐề tài loại B (Đề tài nghiên cứu ứng dụng công nghệ, thuật toán AI): Kinh phí tài trợ tối đa 15.000.000 VNĐ /\nđề tài;\nĐề tài loại C (Đề tài điều tra, khảo sát, nghiên cứu lý thuyết nền tảng): Kinh phí tài trợ tối đa 8.000.000 VNĐ\n/ đề tài. 3.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 28,
+            "metadata": {
+              "strategy": "B_or_C",
+              "year": 2025,
+              "chunk_index": 0,
+              "document_type": "handbook",
+              "char_length": 777,
+              "chunk_type": "by_paragraph",
+              "section": "nghien_cuu_khoa_hoc",
+              "character_count": 996,
+              "language": "vi",
+              "chunk_id": "handbook-sv-2025_p28_para_00",
+              "source": "data\\handbook_sv_2025.pdf",
+              "page": 28,
+              "page_id": "page_28",
+              "chapter": "Chương IV: Nghiên cứu khoa học và đổi mới sáng tạo sinh viên",
+              "document_id": "handbook-sv-2025"
+            },
+            "score": 0.3708,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p17_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 17 / 35\nCHƯƠNG II: QUY CHẾ KHẢO THÍ PHÚC KHẢO ĐIỂM THI\nĐiều 24. Thủ tục và quy trình phúc khảo bài thi\n1. Sinh viên có quyền làm đơn đề nghị phúc khảo bài thi kết thúc học phần nếu nhận thấy điểm số công bố\nchưa phản ánh đúng kết quả làm bài của mình. Đơn phúc khảo phải nộp trực tuyến qua cổng sinh viên trong\nvòng 07 ngày làm việc kể từ ngày công bố điểm thi. 2. Lệ phí phúc khảo là 50.000 VNĐ cho mỗi bài thi. Nếu sau khi phúc khảo điểm thi của sinh viên được điều\nchỉnh tăng từ 0.5 điểm trở lên, Nhà trường sẽ hoàn lại 100% lệ phí phúc khảo cho sinh viên. 3. Thời gian giải quyết phúc khảo và công bố kết quả điểm phúc khảo không quá 15 ngày làm việc kể từ ngày\nhết hạn nhận đơn.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 17,
+            "metadata": {
+              "page_id": "page_17",
+              "chunk_id": "handbook-sv-2025_p17_para_00",
+              "character_count": 833,
+              "section": "khao_thi_hoc_vu",
+              "document_type": "handbook",
+              "strategy": "B_or_C",
+              "chunk_index": 0,
+              "chunk_type": "by_paragraph",
+              "language": "vi",
+              "source": "data\\handbook_sv_2025.pdf",
+              "char_length": 711,
+              "chapter": "Chương II: Quy chế khảo thí và đánh giá học phần",
+              "page": 17,
+              "year": 2025,
+              "document_id": "handbook-sv-2025"
+            },
+            "score": 0.3442,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[handbook-sv-2025_p23_para_00 | data/handbook_sv_2025.pdf | page 23]\nSỔ TAY SINH VIÊN 2025 TRANG 23 / 35\nCHƯƠNG III: CÔNG TÁC SINH VIÊN BẢO HIỂM Y TẾ BẮT BUỘC\nĐiều 35. Quy định về Bảo hiểm Y tế sinh viên\n1. Tham gia Bảo hiểm Y tế (BHYT) là nghĩa vụ bắt buộc của toàn bộ sinh viên Việt Nam theo Luật Bảo hiểm Y\ntế. Sinh viên được ngân sách Nhà nước hỗ trợ tối thiểu 30% mức đóng BHYT, sinh viên tự đóng 70% mức\nđóng theo quy định hiện hành. 2. Nhà trường tổ chức thu phí BHYT tập trung vào đầu mỗi năm học (tháng 9 và tháng 10). Thời hạn sử dụng\ncủa thẻ BHYT sinh viên có giá trị từ ngày 01 tháng 01 đến ngày 31 tháng 12 hàng năm. 3.",
+        "context_ids": [
+          "handbook-sv-2025_p23_para_00"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_seconds": 2.01
+  },
+  {
+    "query_id": "u02",
+    "split": "dev",
+    "question": "Quy trình đăng ký tạm trú cho sinh viên quốc tế tại công an phường được hướng dẫn như thế nào?",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "quy trình đăng ký tạm trú sinh viên quốc tế công an phường",
+        "filter": null,
+        "results": [
+          {
+            "id": "handbook-sv-2025_p23_para_01",
+            "text": "Sinh viên đã có thẻ BHYT thuộc nhóm đối tượng khác (con sĩ quan quân đội, công an, hộ nghèo, cận nghèo)\nkhông phải đóng tiền BHYT tại trường nhưng bắt buộc phải nộp bản sao thẻ BHYT hợp lệ về Trạm Y tế trường\ntrước ngày 15 tháng 10 hàng năm để quản lý theo dõi. 4. Sinh viên không tham gia BHYT mà không có lý do chính đáng sẽ bị trừ 10 điểm rèn luyện tại Nội dung 2 và\nkhông được xét cấp học bổng khuyến khích học tập.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 23,
+            "metadata": {
+              "year": 2025,
+              "strategy": "B_or_C",
+              "chunk_id": "handbook-sv-2025_p23_para_01",
+              "char_length": 419,
+              "chunk_index": 1,
+              "document_id": "handbook-sv-2025",
+              "character_count": 983,
+              "language": "vi",
+              "chapter": "Chương III: Công tác sinh viên, học bổng và chế độ chính sách",
+              "document_type": "handbook",
+              "section": "cong_tac_sinh_vien",
+              "page_id": "page_23",
+              "page": 23,
+              "source": "data\\handbook_sv_2025.pdf",
+              "chunk_type": "by_paragraph"
+            },
+            "score": 0.5746,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p22_para_01",
+            "text": "Đối tượng được giảm 50% học phí: Sinh viên là con cán bộ, công chức, viên chức mà cha hoặc mẹ bị tai\nnạn lao động hoặc mắc bệnh nghề nghiệp được hưởng trợ cấp thường xuyên. 4. Thời hạn nộp hồ sơ xin miễn giảm học phí: Sinh viên nộp 01 bộ hồ sơ hợp lệ về Phòng Công tác Sinh viên\ntrong vòng 30 ngày kể từ ngày bắt đầu học kỳ chính.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 22,
+            "metadata": {
+              "page": 22,
+              "document_type": "handbook",
+              "char_length": 330,
+              "year": 2025,
+              "section": "cong_tac_sinh_vien",
+              "chunk_index": 1,
+              "chunk_id": "handbook-sv-2025_p22_para_01",
+              "language": "vi",
+              "chunk_type": "by_paragraph",
+              "source": "data\\handbook_sv_2025.pdf",
+              "character_count": 1074,
+              "page_id": "page_22",
+              "document_id": "handbook-sv-2025",
+              "strategy": "B_or_C",
+              "chapter": "Chương III: Công tác sinh viên, học bổng và chế độ chính sách"
+            },
+            "score": 0.5137,
+            "strategy": "dense"
+          },
+          {
+            "id": "handbook-sv-2025_p09_para_00",
+            "text": "SỔ TAY SINH VIÊN 2025 TRANG 9 / 35\nCHƯƠNG I: QUY CHẾ ĐÀO TẠO TẠM DỪNG VÀ BẢO LƯU KẾT QUẢ\nĐiều 11. Tạm dừng học tập có phép và bảo lưu kết quả\n1. Sinh viên được quyền xin tạm dừng học tập và bảo lưu kết quả học tập trong các trường hợp sau:\na) Được điều động vào lực lượng vũ trang nhân dân (thời gian phục vụ quân ngũ không tính vào thời gian tối\nđa hoàn thành khóa học);\nb) Được cơ quan có thẩm quyền cử đi đại diện quốc gia tham gia các kỳ thi, giải đấu văn hóa, thể thao, khoa\nhọc quốc tế;\nc) Bị ốm đau, tai nạn hoặc thai sản cần điều trị dài ngày có giấy xác nhận y tế của bệnh viện từ tuyến huyện\nhoặc tương đương trở lên;\nd) Vì nhu cầu cá nhân khác, với điều kiện sinh viên đã học tối thiểu 1 học kỳ chính tại trường và không thuộc\ndiện bị xem xét buộc thôi học hoặc kỷ luật. 2.",
+            "source_id": "handbook-sv-2025",
+            "source": "data/handbook_sv_2025.pdf",
+            "page": 9,
+            "metadata": {
+              "strategy": "B_or_C",
+              "language": "vi",
+              "character_count": 1060,
+              "char_length": 784,
+              "document_type": "handbook",
+              "section": "quy_che_dao_tao",
+              "chunk_id": "handbook-sv-2025_p09_para_00",
+              "document_id": "handbook-sv-2025",
+              "chunk_index": 0,
+              "chunk_type": "by_paragraph",
+              "page": 9,
+              "page_id": "page_09",
+              "year": 2025,
+              "source": "data\\handbook_sv_2025.pdf",
+              "chapter": "Chương I: Quy chế đào tạo theo hệ thống tín chỉ"
+            },
+            "score": 0.5047,
+            "strategy": "dense"
+          }
+        ],
+        "context": "[handbook-sv-2025_p23_para_01 | data/handbook_sv_2025.pdf | page 23]\nSinh viên đã có thẻ BHYT thuộc nhóm đối tượng khác (con sĩ quan quân đội, công an, hộ nghèo, cận nghèo)\nkhông phải đóng tiền BHYT tại trường nhưng bắt buộc phải nộp bản sao thẻ BHYT hợp lệ về Trạm Y tế trường\ntrước ngày 15 tháng 10 hàng năm để quản lý theo dõi. 4. Sinh viên không tham gia BHYT mà không có lý do chính đáng sẽ bị trừ 10 điểm rèn luyện tại Nội dung 2 và\nkhông được xét cấp học bổng khuyến khích học tập.",
+        "context_ids": [
+          "handbook-sv-2025_p23_para_01"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "elapsed_seconds": 2.08
+  }
+]

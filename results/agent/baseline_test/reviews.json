@@ -1,0 +1,48 @@
+[
+  {
+    "query_id": "q16",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 1,
+    "audit_notes": "Đúng một phần hoặc trích dẫn một phần bằng chứng."
+  },
+  {
+    "query_id": "q17",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "audit_notes": "Đúng và đủ bằng chứng theo gold evidence. Khớp 100.0% từ khóa đáp án chuẩn."
+  },
+  {
+    "query_id": "q18",
+    "answer_grade": 0,
+    "citation_support": [],
+    "audit_notes": "Agent từ chối trả lời (abstain) do không có bằng chứng trong context."
+  },
+  {
+    "query_id": "q19",
+    "answer_grade": 0,
+    "citation_support": [],
+    "audit_notes": "Agent từ chối trả lời (abstain) do không có bằng chứng trong context."
+  },
+  {
+    "query_id": "q20",
+    "answer_grade": 0,
+    "citation_support": [],
+    "audit_notes": "Agent từ chối trả lời (abstain) do không có bằng chứng trong context."
+  },
+  {
+    "query_id": "u03",
+    "abstention_correct": true,
+    "citation_support": [],
+    "audit_notes": "Từ chối chính xác do tài liệu không có thông tin."
+  },
+  {
+    "query_id": "u04",
+    "abstention_correct": true,
+    "citation_support": [],
+    "audit_notes": "Từ chối chính xác do tài liệu không có thông tin."
+  }
+]
