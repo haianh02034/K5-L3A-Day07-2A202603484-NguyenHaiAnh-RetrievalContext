@@ -1,0 +1,194 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Thời gian đào tạo tiêu chuẩn cho chương trình cử nhân và kỹ sư là bao nhiêu năm?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "4 năm (8 học kỳ chính) cho cử nhân và 4.5 năm (9 học kỳ chính) cho kỹ sư."
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "Chuẩn đầu ra ngoại ngữ tiếng Anh đối với sinh viên không chuyên ngữ yêu cầu mức chứng chỉ quốc tế nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Chứng chỉ tiếng Anh tương đương bậc 3: TOEIC 450 điểm quốc tế, IELTS 4.5 hoặc TOEFL iBT 45 điểm."
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "Sinh viên có thể rút bớt môn học sau tuần thứ 2 đến trước tuần thứ 6 với điều kiện học phí và kết quả học tập thế nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Nhận điểm rút môn chữ W (không tính GPA) và bắt buộc phải hoàn thành 50% học phí của học phần đó."
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Trong quy chế đào tạo, sinh viên đạt điểm học phần từ 8.0 đến 8.4 được quy đổi sang loại điểm chữ và thang điểm 4 là bao nhiêu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Loại B+ (Khá giỏi), tương đương 3.5 điểm hệ 4."
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Mức học phí sinh viên phải đóng khi đăng ký học lại hoặc cải thiện điểm được quy định ra sao?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "120% định mức học phí tín chỉ hiện hành của năm học tổ chức lớp học lại."
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Sinh viên bị buộc thôi học khi rơi vào các tình huống học vụ nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Bị cảnh báo học vụ mức 2 mà học kỳ kế tiếp không thoát, vượt quá thời gian tối đa, hoặc tự ý bỏ học liên tiếp 2 học kỳ chính không phép."
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Điều kiện về tỷ lệ chuyên cần và điểm quá trình tối thiểu để sinh viên được dự thi kết thúc học phần là gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Tham dự tối thiểu 80% số tiết học trên lớp, hoàn thành 100% bài thực hành bắt buộc, và điểm quá trình từ 4.0 trở lên."
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "Theo quy chế khảo thí, sinh viên đến phòng thi muộn bao nhiêu phút sẽ không được phép tham dự thi?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Đến muộn quá 15 phút sau khi phát đề thi sẽ không được thi và nhận điểm 0."
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "Sinh viên hoãn thi kết thúc học phần được ghi điểm gì và thời hạn chuyển đổi điểm trước khi bị tính thành điểm F là bao lâu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Nhận điểm chữ I; phải dự thi bổ sung trong vòng 1 năm học nếu không điểm I sẽ tự động thành điểm F (0 điểm)."
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Thí sinh mang thiết bị thu phát sóng truyền tin vào phòng thi sẽ chịu hình thức xử lý kỷ luật nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Bị lập biên bản đình chỉ thi, nhận điểm 0 cho bài thi, hủy kết quả học phần và ghi học bạ kỷ luật cấp trường."
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Thời hạn nộp đơn và mức lệ phí phúc khảo bài thi kết thúc học phần là bao nhiêu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Nộp đơn trong vòng 07 ngày làm việc kể từ ngày công bố điểm; lệ phí là 50.000 VNĐ cho mỗi bài thi."
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "Trong công tác sinh viên, học bổng khuyến khích học tập mức Xuất sắc yêu cầu mức điểm GPA và điểm rèn luyện là bao nhiêu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Điểm GPA từ 3.60 trở lên và Điểm rèn luyện từ 90 điểm trở lên; giá trị học bổng bằng 120% học phí học kỳ."
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Những nhóm đối tượng sinh viên nào được miễn 100% học phí theo quy định chính sách của Nhà nước?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Con người có công với cách mạng; khuyết tật nặng hoặc đặc biệt nặng; mồ côi cả cha lẫn mẹ; người dân tộc thiểu số rất ít người vùng đặc biệt khó khăn."
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "Thẻ Bảo hiểm Y tế của sinh viên có giá trị sử dụng trong khoảng thời gian nào hàng năm?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Từ ngày 01 tháng 01 đến ngày 31 tháng 12 hàng năm."
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "Sinh viên tham gia hiến máu nhân đạo được cộng bao nhiêu điểm vào kết quả đánh giá rèn luyện học kỳ?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Cộng 5 điểm vào điểm rèn luyện học kỳ tại Nội dung 3."
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "Quy định về việc hạ bậc xếp hạng bằng tốt nghiệp đại học được áp dụng khi sinh viên vi phạm điều gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Khối lượng học phần học lại vượt quá 5% tổng số tín chỉ chương trình, hoặc đã bị kỷ luật từ mức cảnh cáo cấp trường trở lên."
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Những loại chứng chỉ nghề nghiệp quốc tế nào được xem xét miễn học và quy đổi điểm A môn học thực hành mạng và đám mây?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "AWS Certified Cloud Practitioner, Cisco CCNA, CompTIA Security+."
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Khung giờ mở cửa và đóng cửa Ký túc xá hàng ngày được quy định như thế nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Mở cửa lúc 05h00 sáng và đóng cửa lúc 23h00 đêm hàng ngày."
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Sinh viên nghiên cứu khoa học cần đạt điều kiện gì để được xem xét miễn làm khóa luận tốt nghiệp và quy đổi điểm A?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Đạt giải Nhất hoặc Nhì NCKH cấp trường, hoặc có bài báo xuất bản trên tạp chí quốc tế Scopus/ISI với tư cách là tác giả chính."
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "Trong lĩnh vực nghiên cứu khoa học, mức thưởng và hỗ trợ kinh phí APC tối đa cho bài báo xuất bản trên tạp chí quốc tế ISI/Scopus nhóm Q1 là bao nhiêu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Thưởng 20.000.000 VNĐ và hỗ trợ 100% lệ phí APC tối đa không quá 35.000.000 VNĐ."
+  },
+  {
+    "id": "u01",
+    "split": "dev",
+    "question": "Mức phí gửi xe máy và xe đạp điện theo tháng tại tầng hầm ký túc xá là bao nhiêu tiền?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Tài liệu sổ tay sinh viên quy định quy chế đào tạo, học phí học phần và học bổng; không có điều khoản quy định mức phí trông giữ xe ký túc xá."
+  },
+  {
+    "id": "u02",
+    "split": "dev",
+    "question": "Quy trình đăng ký tạm trú cho sinh viên quốc tế tại công an phường được hướng dẫn như thế nào?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Tài liệu tập trung vào quy chế học vụ, điểm số và khen thưởng; không có quy trình thủ tục hành chính đăng ký tạm trú tại công an phường."
+  },
+  {
+    "id": "u03",
+    "split": "test",
+    "question": "Quy định về việc bảo lưu kết quả học tập để thực hiện nghĩa vụ quân sự được gia hạn tối đa bao nhiêu năm?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Điều 1 quy định tạm dừng học tập có phép không vượt quá 2 lần thời gian thiết kế tiêu chuẩn nói chung, không có điều khoản quy định số năm gia hạn riêng cho nghĩa vụ quân sự."
+  },
+  {
+    "id": "u04",
+    "split": "test",
+    "question": "Sinh viên có được phép nuôi thú cưng (chó, mèo) trong phòng ký túc xá không và hình thức xử phạt nếu vi phạm?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Tài liệu là sổ tay quy chế đào tạo đại học chính quy, không có quy chế nội trú ký túc xá hoặc quy định về việc cấm nuôi vật nuôi."
+  }
+]

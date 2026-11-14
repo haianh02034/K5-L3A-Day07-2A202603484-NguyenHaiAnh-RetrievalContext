@@ -1,0 +1,279 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Thời gian đào tạo tiêu chuẩn cho chương trình cử nhân và kỹ sư là bao nhiêu năm?",
+    "expected_answer": "4 năm (8 học kỳ chính) cho cử nhân và 4.5 năm (9 học kỳ chính) cho kỹ sư.",
+    "gold": [
+      {
+        "source_id": "handbook-sv-2025",
+        "page": 3,
+        "evidence": "Thời gian đào tạo tiêu chuẩn cho chương trình cử nhân là 4 năm (8 học kỳ chính), chương trình kỹ sư là 4.5\nnăm (9 học kỳ chính)."
+      }
+    ]
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "Chuẩn đầu ra ngoại ngữ tiếng Anh đối với sinh viên không chuyên ngữ yêu cầu mức chứng chỉ quốc tế nào?",
+    "expected_answer": "Chứng chỉ tiếng Anh tương đương bậc 3: TOEIC 450 điểm quốc tế, IELTS 4.5 hoặc TOEFL iBT 45 điểm.",
+    "gold": [
+      {
+        "source_id": "handbook-sv-2025",
+        "page": 4,
+        "evidence": "Sinh viên các ngành không chuyên ngữ phải đạt chứng chỉ tiếng Anh quốc tế\ntương đương bậc 3 theo Khung năng lực ngoại ngữ 6 bậc dùng cho Việt Nam (TOEIC 450 điểm quốc tế,\nIELTS 4.5 hoặc TOEFL iBT 45 điểm)"
+      }
+    ]
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "Sinh viên có thể rút bớt môn học sau tuần thứ 2 đến trước tuần thứ 6 với điều kiện học phí và kết quả học tập thế nào?",
+    "expected_answer": "Nhận điểm rút môn chữ W (không tính GPA) và bắt buộc phải hoàn thành 50% học phí của học phần đó.",
+    "gold": [
+      {
+        "source_id": "handbook-sv-2025",
+        "page": 5,
+        "evidence": "Sinh viên được nhận điểm rút môn\n(ký hiệu chữ W trên bảng điểm, không tính vào điểm trung bình), nhưng bắt buộc phải hoàn thành 50% mức\nhọc phí của học phần đó."
+      }
+    ]
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Trong quy chế đào tạo, sinh viên đạt điểm học phần từ 8.0 đến 8.4 được quy đổi sang loại điểm chữ và thang điểm 4 là bao nhiêu?",
+    "expected_answer": "Loại B+ (Khá giỏi), tương đương 3.5 điểm hệ 4.",
+    "gold": [
+      {
+        "source_id": "handbook-sv-2025",
+        "page": 6,
+        "evidence": "Loại B+ (Khá giỏi): Từ 8.0 đến 8.4 điểm, tương đương 3.5 điểm hệ 4."
+      }
+    ],
+    "filter": {
+      "section": "quy_che_dao_tao"
+    }
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Mức học phí sinh viên phải đóng khi đăng ký học lại hoặc cải thiện điểm được quy định ra sao?",
+    "expected_answer": "120% định mức học phí tín chỉ hiện hành của năm học tổ chức lớp học lại.",
+    "gold": [
+      {
+        "source_id": "handbook-sv-2025",
+        "page": 7,
+        "evidence": "Học phí học lại và học cải thiện được tính bằng 120% định mức học phí tín chỉ hiện hành của năm học tổ\nchức lớp học lại."
+      }
+    ]
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Sinh viên bị buộc thôi học khi rơi vào các tình huống học vụ nào?",
+    "expected_answer": "Bị cảnh báo học vụ mức 2 mà học kỳ kế tiếp không thoát, vượt quá thời gian tối đa, hoặc tự ý bỏ học liên tiếp 2 học kỳ chính không phép.",
+    "gold": [
+      {
+        "source_id": "handbook-sv-2025",
+        "page": 8,
+        "evidence": "Đã bị cảnh báo học vụ mức 2 mà ở học kỳ chính tiếp theo vẫn không đạt tiêu chuẩn thoát cảnh báo;\nb) Vượt quá thời gian đào tạo tối đa quy định tại Điều 1 của Quy chế này;\nc) Tự ý bỏ học không đăng ký tín chỉ liên tiếp trong 2 học kỳ chính mà không có đơn xin phép tạm dừng hợp\nlệ gửi Phòng Đào tạo."
+      }
+    ]
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Điều kiện về tỷ lệ chuyên cần và điểm quá trình tối thiểu để sinh viên được dự thi kết thúc học phần là gì?",
+    "expected_answer": "Tham dự tối thiểu 80% số tiết học trên lớp, hoàn thành 100% bài thực hành bắt buộc, và điểm quá trình từ 4.0 trở lên.",
+    "gold": [
+      {
+        "source_id": "handbook-sv-2025",
+        "page": 11,
+        "evidence": "Tham dự tối thiểu 80% số tiết học lý thuyết và thảo luận trên lớp;\nb) Hoàn thành đầy đủ 100% các bài thực hành, thí nghiệm bắt buộc của học phần;\nc) Điểm đánh giá quá trình đạt từ 4.0 điểm trở lên theo thang điểm 10."
+      }
+    ]
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "Theo quy chế khảo thí, sinh viên đến phòng thi muộn bao nhiêu phút sẽ không được phép tham dự thi?",
+    "expected_answer": "Đến muộn quá 15 phút sau khi phát đề thi sẽ không được thi và nhận điểm 0.",
+    "gold": [
+      {
+        "source_id": "handbook-sv-2025",
+        "page": 13,
+        "evidence": "Thí sinh đến muộn quá 15\nphút sau khi phát đề thi sẽ không được tham dự kỳ thi và nhận điểm 0 cho lần thi đó."
+      }
+    ],
+    "filter": {
+      "section": "khao_thi_hoc_vu"
+    }
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "Sinh viên hoãn thi kết thúc học phần được ghi điểm gì và thời hạn chuyển đổi điểm trước khi bị tính thành điểm F là bao lâu?",
+    "expected_answer": "Nhận điểm chữ I; phải dự thi bổ sung trong vòng 1 năm học nếu không điểm I sẽ tự động thành điểm F (0 điểm).",
+    "gold": [
+      {
+        "source_id": "handbook-sv-2025",
+        "page": 14,
+        "evidence": "Sinh viên được chấp thuận hoãn thi sẽ được nhận điểm chữ I (Chưa hoàn thành) trên hệ thống."
+      },
+      {
+        "source_id": "handbook-sv-2025",
+        "page": 14,
+        "evidence": "để chuyển điểm I thành điểm chính thức."
+      }
+    ]
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Thí sinh mang thiết bị thu phát sóng truyền tin vào phòng thi sẽ chịu hình thức xử lý kỷ luật nào?",
+    "expected_answer": "Bị lập biên bản đình chỉ thi, nhận điểm 0 cho bài thi, hủy kết quả học phần và ghi học bạ kỷ luật cấp trường.",
+    "gold": [
+      {
+        "source_id": "handbook-sv-2025",
+        "page": 15,
+        "evidence": "Đình chỉ thi: Áp dụng đối với thí sinh mang thiết bị thu phát sóng, sử dụng tài liệu trong phòng thi, hoặc có\nhành vi chống đối giám thị. Thí sinh bị đình chỉ thi nhận điểm 0 cho bài thi đó, bị hủy toàn bộ kết quả học phần\nvà bị ghi học bạ kỷ luật cấp trường."
+      }
+    ]
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Thời hạn nộp đơn và mức lệ phí phúc khảo bài thi kết thúc học phần là bao nhiêu?",
+    "expected_answer": "Nộp đơn trong vòng 07 ngày làm việc kể từ ngày công bố điểm; lệ phí là 50.000 VNĐ cho mỗi bài thi.",
+    "gold": [
+      {
+        "source_id": "handbook-sv-2025",
+        "page": 17,
+        "evidence": "Đơn phúc khảo phải nộp trực tuyến qua cổng sinh viên trong\nvòng 07 ngày làm việc kể từ ngày công bố điểm thi. 2. Lệ phí phúc khảo là 50.000 VNĐ cho mỗi bài thi."
+      }
+    ]
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "Trong công tác sinh viên, học bổng khuyến khích học tập mức Xuất sắc yêu cầu mức điểm GPA và điểm rèn luyện là bao nhiêu?",
+    "expected_answer": "Điểm GPA từ 3.60 trở lên và Điểm rèn luyện từ 90 điểm trở lên; giá trị học bổng bằng 120% học phí học kỳ.",
+    "gold": [
+      {
+        "source_id": "handbook-sv-2025",
+        "page": 21,
+        "evidence": "Mức Xuất sắc: Điểm GPA từ 3.60 trở lên và Điểm rèn luyện từ 90 điểm trở lên; giá trị học bổng bằng 120%\nmức học phí của học kỳ"
+      }
+    ],
+    "filter": {
+      "section": "cong_tac_sinh_vien"
+    }
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Những nhóm đối tượng sinh viên nào được miễn 100% học phí theo quy định chính sách của Nhà nước?",
+    "expected_answer": "Con người có công với cách mạng; khuyết tật nặng hoặc đặc biệt nặng; mồ côi cả cha lẫn mẹ; người dân tộc thiểu số rất ít người vùng đặc biệt khó khăn.",
+    "gold": [
+      {
+        "source_id": "handbook-sv-2025",
+        "page": 22,
+        "evidence": "Đối tượng được miễn 100% học phí:\na) Sinh viên là con của người có công với cách mạng theo Pháp lệnh Ưu đãi người có công;\nb) Sinh viên khuyết tật nặng hoặc đặc biệt nặng có giấy xác nhận y tế hợp lệ;\nc) Sinh viên mồ côi cả cha lẫn mẹ không nơi nương tựa;\nd) Sinh viên dân tộc thiểu số rất ít người"
+      }
+    ]
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "Thẻ Bảo hiểm Y tế của sinh viên có giá trị sử dụng trong khoảng thời gian nào hàng năm?",
+    "expected_answer": "Từ ngày 01 tháng 01 đến ngày 31 tháng 12 hàng năm.",
+    "gold": [
+      {
+        "source_id": "handbook-sv-2025",
+        "page": 23,
+        "evidence": "Thời hạn sử dụng\ncủa thẻ BHYT sinh viên có giá trị từ ngày 01 tháng 01 đến ngày 31 tháng 12 hàng năm."
+      }
+    ]
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "Sinh viên tham gia hiến máu nhân đạo được cộng bao nhiêu điểm vào kết quả đánh giá rèn luyện học kỳ?",
+    "expected_answer": "Cộng 5 điểm vào điểm rèn luyện học kỳ tại Nội dung 3.",
+    "gold": [
+      {
+        "source_id": "handbook-sv-2025",
+        "page": 25,
+        "evidence": "Sinh viên tham gia hiến máu tình nguyện được cộng 5 điểm vào điểm rèn luyện học kỳ tại Nội dung 3, được\ncấp giấy chứng nhận hiến máu"
+      }
+    ]
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "Quy định về việc hạ bậc xếp hạng bằng tốt nghiệp đại học được áp dụng khi sinh viên vi phạm điều gì?",
+    "expected_answer": "Khối lượng học phần học lại vượt quá 5% tổng số tín chỉ chương trình, hoặc đã bị kỷ luật từ mức cảnh cáo cấp trường trở lên.",
+    "gold": [
+      {
+        "source_id": "handbook-sv-2025",
+        "page": 10,
+        "evidence": "Hạng tốt nghiệp của sinh viên bị hạ một bậc (từ Xuất sắc xuống Giỏi, từ Giỏi xuống Khá) nếu vi phạm một\ntrong các điều sau: Khối lượng các học phần phải học lại vượt quá 5% tổng số tín chỉ của chương trình; hoặc\nđã bị kỷ luật từ mức cảnh cáo cấp trường trở lên trong thời gian học tập."
+      }
+    ]
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Những loại chứng chỉ nghề nghiệp quốc tế nào được xem xét miễn học và quy đổi điểm A môn học thực hành mạng và đám mây?",
+    "expected_answer": "AWS Certified Cloud Practitioner, Cisco CCNA, CompTIA Security+.",
+    "gold": [
+      {
+        "source_id": "handbook-sv-2025",
+        "page": 18,
+        "evidence": "Các chứng chỉ nghề nghiệp quốc tế (AWS Certified Cloud Practitioner, Cisco CCNA, CompTIA Security+)\nđược xem xét miễn học và quy đổi tương đương điểm A (4.0)"
+      }
+    ]
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Khung giờ mở cửa và đóng cửa Ký túc xá hàng ngày được quy định như thế nào?",
+    "expected_answer": "Mở cửa lúc 05h00 sáng và đóng cửa lúc 23h00 đêm hàng ngày.",
+    "gold": [
+      {
+        "source_id": "handbook-sv-2025",
+        "page": 24,
+        "evidence": "Giờ mở cửa và đóng cửa Ký túc xá: Mở cửa lúc 05 giờ 00 sáng và đóng cửa lúc 23 giờ 00 đêm hàng ngày."
+      }
+    ]
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Sinh viên nghiên cứu khoa học cần đạt điều kiện gì để được xem xét miễn làm khóa luận tốt nghiệp và quy đổi điểm A?",
+    "expected_answer": "Đạt giải Nhất hoặc Nhì NCKH cấp trường, hoặc có bài báo xuất bản trên tạp chí quốc tế Scopus/ISI với tư cách là tác giả chính.",
+    "gold": [
+      {
+        "source_id": "handbook-sv-2025",
+        "page": 32,
+        "evidence": "Sinh viên có đề tài NCKH đạt giải Nhất, Nhì cấp trường hoặc có bài báo khoa\nhọc xuất bản trên tạp chí quốc tế thuộc danh mục Scopus / ISI (Web of Science) với tư cách là tác giả chính\n(first author) được quyền làm đơn xin miễn làm khóa luận tốt nghiệp và được quy đổi tương đương điểm A\n(10.0 điểm)"
+      }
+    ]
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "Trong lĩnh vực nghiên cứu khoa học, mức thưởng và hỗ trợ kinh phí APC tối đa cho bài báo xuất bản trên tạp chí quốc tế ISI/Scopus nhóm Q1 là bao nhiêu?",
+    "expected_answer": "Thưởng 20.000.000 VNĐ và hỗ trợ 100% lệ phí APC tối đa không quá 35.000.000 VNĐ.",
+    "gold": [
+      {
+        "source_id": "handbook-sv-2025",
+        "page": 33,
+        "evidence": "Bài báo đăng trên tạp chí quốc tế ISI/Scopus nhóm Q1: Thưởng 20.000.000 VNĐ và hỗ trợ 100% lệ phí\nAPC (tối đa không quá 35.000.000 VNĐ)"
+      }
+    ],
+    "filter": {
+      "section": "nghien_cuu_khoa_hoc"
+    }
+  }
+]
